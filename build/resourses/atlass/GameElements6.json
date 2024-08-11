@@ -1,0 +1,280 @@
+{
+    "frames": {
+        "ExtraChilliScreen/NUM_Black_0": {
+            "frame": {
+                "x": 890,
+                "y": 537,
+                "w": 116,
+                "h": 175
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 116,
+                "h": 175
+            },
+            "sourceSize": {
+                "w": 116,
+                "h": 175
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "ExtraChilliScreen/NUM_Black_8": {
+            "frame": {
+                "x": 890,
+                "y": 714,
+                "w": 116,
+                "h": 174
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 116,
+                "h": 174
+            },
+            "sourceSize": {
+                "w": 116,
+                "h": 174
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "ExtraChilliScreen/Wheel_01": {
+            "frame": {
+                "x": 2,
+                "y": 420,
+                "w": 586,
+                "h": 585
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 586,
+                "h": 585
+            },
+            "sourceSize": {
+                "w": 586,
+                "h": 585
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FireWork_Particle_02": {
+            "frame": {
+                "x": 890,
+                "y": 407,
+                "w": 128,
+                "h": 128
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 128,
+                "h": 128
+            },
+            "sourceSize": {
+                "w": 128,
+                "h": 128
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FreeSpinWindow/MessageWindow_BG_01": {
+            "frame": {
+                "x": 2,
+                "y": 2,
+                "w": 616,
+                "h": 416
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 616,
+                "h": 416
+            },
+            "sourceSize": {
+                "w": 616,
+                "h": 416
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Intro/IntroPanel_01": {
+            "frame": {
+                "x": 590,
+                "y": 420,
+                "w": 298,
+                "h": 518
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 298,
+                "h": 518
+            },
+            "sourceSize": {
+                "w": 298,
+                "h": 518
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Menu/TAB_Menu_01": {
+            "frame": {
+                "x": 590,
+                "y": 940,
+                "w": 185,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 185,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 185,
+                "h": 70
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Menu/TAB_Menu_01_Pressed": {
+            "frame": {
+                "x": 777,
+                "y": 940,
+                "w": 185,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 185,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 185,
+                "h": 70
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "P_GemPurple_01": {
+            "frame": {
+                "x": 890,
+                "y": 890,
+                "w": 35,
+                "h": 35
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 35,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 35,
+                "h": 35
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "P_GemRed_01": {
+            "frame": {
+                "x": 927,
+                "y": 890,
+                "w": 35,
+                "h": 35
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 35,
+                "h": 35
+            },
+            "sourceSize": {
+                "w": 35,
+                "h": 35
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Paytable/PT_Image_03": {
+            "frame": {
+                "x": 620,
+                "y": 2,
+                "w": 371,
+                "h": 403
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 371,
+                "h": 403
+            },
+            "sourceSize": {
+                "w": 371,
+                "h": 403
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "GameElements6.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1024,
+            "h": 1024
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:f2a6d46fc2f76a03f2380372c2563cc5:e5eb08a16b79e9611aa660c2be0c57d9:cf2e57e698cd4b7e02433bd2c5c14c0e$"
+    }
+}

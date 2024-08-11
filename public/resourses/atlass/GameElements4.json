@@ -1,0 +1,232 @@
+{
+    "frames": {
+        "ExtraChilliScreen/GambleSlot_Black": {
+            "frame": {
+                "x": 370,
+                "y": 888,
+                "w": 158,
+                "h": 121
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 121
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 121
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FeatureDrop/FDSymbol_06": {
+            "frame": {
+                "x": 854,
+                "y": 930,
+                "w": 150,
+                "h": 83
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 83
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 83
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Flags/Flags_D": {
+            "frame": {
+                "x": 2,
+                "y": 728,
+                "w": 536,
+                "h": 158
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 536,
+                "h": 158
+            },
+            "sourceSize": {
+                "w": 536,
+                "h": 158
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FreeSpinWindow/BUT_StartFreeSpin_01": {
+            "frame": {
+                "x": 540,
+                "y": 728,
+                "w": 467,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 467,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 467,
+                "h": 200
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Menu/Menu_BG_01": {
+            "frame": {
+                "x": 2,
+                "y": 2,
+                "w": 1013,
+                "h": 724
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1013,
+                "h": 724
+            },
+            "sourceSize": {
+                "w": 1013,
+                "h": 724
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Scroll_BG_4": {
+            "frame": {
+                "x": 208,
+                "y": 888,
+                "w": 160,
+                "h": 128
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 128
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 128
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Scroll_BG_6": {
+            "frame": {
+                "x": 530,
+                "y": 930,
+                "w": 160,
+                "h": 85
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 85
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 85
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Scroll_BG_7": {
+            "frame": {
+                "x": 692,
+                "y": 930,
+                "w": 160,
+                "h": 73
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 73
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 73
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "SYM_Main_BG_S_7": {
+            "frame": {
+                "x": 2,
+                "y": 888,
+                "w": 204,
+                "h": 125
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 204,
+                "h": 125
+            },
+            "sourceSize": {
+                "w": 204,
+                "h": 125
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "GameElements4.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1024,
+            "h": 1024
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:f2a6d46fc2f76a03f2380372c2563cc5:e5eb08a16b79e9611aa660c2be0c57d9:cf2e57e698cd4b7e02433bd2c5c14c0e$"
+    }
+}

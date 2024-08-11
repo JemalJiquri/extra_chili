@@ -1,0 +1,208 @@
+{
+    "frames": {
+        "ExtraChilliScreen/NUM_Purple_24": {
+            "frame": {
+                "x": 164,
+                "y": 679,
+                "w": 209,
+                "h": 174
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 209,
+                "h": 174
+            },
+            "sourceSize": {
+                "w": 209,
+                "h": 174
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FeatureDrop/Prompt/BUT_START_01": {
+            "frame": {
+                "x": 375,
+                "y": 679,
+                "w": 300,
+                "h": 149
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 149
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 149
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FeatureDrop/Prompt/BUT_START_02": {
+            "frame": {
+                "x": 677,
+                "y": 679,
+                "w": 300,
+                "h": 149
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 149
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 149
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FeatureDrop/Prompt/FDMenu_BG_01": {
+            "frame": {
+                "x": 2,
+                "y": 2,
+                "w": 1005,
+                "h": 675
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1005,
+                "h": 675
+            },
+            "sourceSize": {
+                "w": 1005,
+                "h": 675
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Menu/BUT_Ok_01_BG_01": {
+            "frame": {
+                "x": 2,
+                "y": 937,
+                "w": 146,
+                "h": 76
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 76
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 76
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Paytable/PT_HowToPlay_02": {
+            "frame": {
+                "x": 575,
+                "y": 830,
+                "w": 417,
+                "h": 146
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 417,
+                "h": 146
+            },
+            "sourceSize": {
+                "w": 417,
+                "h": 146
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Paytable/PT_Image_05": {
+            "frame": {
+                "x": 164,
+                "y": 855,
+                "w": 409,
+                "h": 161
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 409,
+                "h": 161
+            },
+            "sourceSize": {
+                "w": 409,
+                "h": 161
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Scroll_BG_2": {
+            "frame": {
+                "x": 2,
+                "y": 679,
+                "w": 160,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 256
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "GameElements5.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1024,
+            "h": 1024
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:f2a6d46fc2f76a03f2380372c2563cc5:e5eb08a16b79e9611aa660c2be0c57d9:cf2e57e698cd4b7e02433bd2c5c14c0e$"
+    }
+}

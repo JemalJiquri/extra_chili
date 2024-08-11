@@ -1,0 +1,256 @@
+{
+    "frames": {
+        "DB_Numbers_01/3": {
+            "frame": {
+                "x": 224,
+                "y": 505,
+                "w": 342,
+                "h": 386
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 342,
+                "h": 386
+            },
+            "sourceSize": {
+                "w": 342,
+                "h": 386
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "DB_Numbers_01/4": {
+            "frame": {
+                "x": 568,
+                "y": 505,
+                "w": 342,
+                "h": 386
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 342,
+                "h": 386
+            },
+            "sourceSize": {
+                "w": 342,
+                "h": 386
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "ExtraChilliScreen/ECS_WhelGoldBG": {
+            "frame": {
+                "x": 2,
+                "y": 2,
+                "w": 902,
+                "h": 501
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 902,
+                "h": 501
+            },
+            "sourceSize": {
+                "w": 902,
+                "h": 501
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "ExtraChilliScreen/GambleSlot_Black_Active": {
+            "frame": {
+                "x": 298,
+                "y": 893,
+                "w": 158,
+                "h": 121
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 121
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 121
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "ExtraChilliScreen/GambleSlot_Blue": {
+            "frame": {
+                "x": 458,
+                "y": 893,
+                "w": 158,
+                "h": 121
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 121
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 121
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "ExtraChilliScreen/GambleSlot_Blue_Active": {
+            "frame": {
+                "x": 618,
+                "y": 893,
+                "w": 158,
+                "h": 121
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 121
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 121
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "ExtraChilliScreen/GambleSlot_Green": {
+            "frame": {
+                "x": 778,
+                "y": 893,
+                "w": 158,
+                "h": 121
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 121
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 121
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Menu/BUT_Ok_01_BG_02": {
+            "frame": {
+                "x": 2,
+                "y": 920,
+                "w": 146,
+                "h": 76
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 76
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 76
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Menu/BUT_Ok_01_BG_02_Pressed": {
+            "frame": {
+                "x": 150,
+                "y": 920,
+                "w": 146,
+                "h": 76
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 76
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 76
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Paytable/PT_Panel_01": {
+            "frame": {
+                "x": 2,
+                "y": 505,
+                "w": 220,
+                "h": 413
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 220,
+                "h": 413
+            },
+            "sourceSize": {
+                "w": 220,
+                "h": 413
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "GameElements10.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1024,
+            "h": 1024
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:f2a6d46fc2f76a03f2380372c2563cc5:e5eb08a16b79e9611aa660c2be0c57d9:cf2e57e698cd4b7e02433bd2c5c14c0e$"
+    }
+}

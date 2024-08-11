@@ -1,0 +1,1191 @@
+{
+    "CANCEL": {
+        "str": "CANCEL",
+        "fontFamily": "Arial",
+        "fontSize": 44,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "PAYS": {
+        "str": "PAYS",
+        "fontFamily": "Arial",
+        "fontSize": 30,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTO": {
+        "str": "AUTO",
+        "fontFamily": "Arial",
+        "fontSize": 30,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "OPTIONS": {
+        "str": "OPTIONS",
+        "fontFamily": "Arial",
+        "fontSize": 30,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "HELP": {
+        "str": "HELP",
+        "fontFamily": "Arial",
+        "fontSize": 30,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "START": {
+        "str": "START",
+        "fontFamily": "Arial",
+        "fontSize": 44,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "START_FREE_SPINS": {
+        "str": "START",
+        "fontFamily": "Arial",
+        "fontSize":94,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "WARNING": {
+        "str": "WARNING",
+        "fontFamily": "Arial",
+        "fontSize": 24,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "PRESS_START": {
+        "str": "Press Start to trigger free spins at the price displayed.\nYour current stake will apply to each free spin",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "white",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "PRICE": {
+        "str": "PRICE",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "white",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FUN": {
+        "str": "%c %d",
+        "fontFamily": "Arial",
+        "fontSize": 31,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": -23
+    },
+    "FUNBONUSBANER": {
+        "str": "%c %d",
+        "fontFamily": "Arial",
+        "fontSize": 31,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": -23
+    },
+    "BUYBON": {
+        "str": "%c %d",
+        "fontFamily": "Arial",
+        "fontSize": 23,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": -23
+    },
+    "FUNINBONUS": {
+        "str": "%c %d",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#FFFFFF",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":-10
+    },
+    "XINBONUS": {
+        "str": "x%d",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#FFFFFF",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":-10
+    },
+    "FREESPINSCOUNT": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 45,
+        "fill": "#FFFFFF",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":-10
+    },
+    "AUTOSPINTEXT": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 45,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUICONSTEXTCOUNT": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#f4dda7",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUICONSTEXTWIN": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#fbefd8",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUPAYPAGECOINTEXT": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#facb60",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUINFOTEXTPAGEA": {
+        "str": "%c",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUSOUNDTEXT": {
+        "str": "Sounds",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUSOUNDONTEXT": {
+        "str": "On",
+        "fontFamily": "Arial",
+        "fontSize": 25,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUSOUNDOFFTEXT": {
+        "str": "Off",
+        "fontFamily": "Arial",
+        "fontSize": 25,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUSOUNDBUTONREPLAYREXT": {
+        "str": "Replay",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUAUTOTEXTA": {
+        "str": "Number of spins",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUAUTOTEXTB": {
+        "str": "Select events that will cancel your Auto play session. \nYou can stop at any time by pressing the stop button.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUAUTOTEXTC": {
+        "str": "Loss limit",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUAUTOTEXTD": {
+        "str": "Single win limit",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "MENUAUTOTEXTE": {
+        "str": "If multiple options are chosen any limit realched will stop the \nAuto play session.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },    
+    "AUTOSTART": {
+        "str": "START",
+        "fontFamily": "Arial",
+        "fontSize": 30,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 9,
+        "offsetY": -6
+    },
+    "AUTONOS": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "AUTOLL": {
+        "str": "%c %d",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "AUTOPLEASESET": {
+        "str": "Please set",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTA": {
+        "str": "Wins begin with the leftmost reel and pay left to right on consecutive reels.\n                              Payouts are multiplied by stake.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTCAA": {
+        "str": "Extra reel",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTCBA": {
+        "str": "Reactions",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTCAB": {
+        "str": "The extra reel adds a\nsymbol to the reel it is\nbelow for reels 2,3,4 and 5.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTCBB": {
+        "str": "All winning symbols except Scatters are part of a reaction and are replaced\nby symbols coming from above on the reels and from the right in the extra\nreel.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTDAA": {
+        "str": "Scatter",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTDAB": {
+        "str": "Get three. \"HOT\" Scatters of win 8\nFree spins.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTDB": {
+        "str": "Every extra Scatter adds an extra\nfour Free Spins.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTDCA": {
+        "str": "Wild",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTDCB": {
+        "str": "Wilds substitute\nall symbols\nexcept Scatters\nand Feature\nDrop symbols.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTEAA": {
+        "str": "Free Spins",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTEAB": {
+        "str": "Unlimited Win Multiplier",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTEAC": {
+        "str": "Win multiplier starts at one and\nincreases after every reaction.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTEBA": {
+        "str": "Free Spins Scatter",
+        "fontFamily": "Arial",
+        "fontSize": 34,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTEBB": {
+        "str": "The free Spin Scatter can apper in the\nextra reel during Free Spins.\n3 = four extra Free Spins.\n4 = eight extra Free Spins.",
+        "fontFamily": "Arial",
+        "fontSize": 17,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTFA": {
+        "str": "Free Spins Gamble",
+        "fontFamily": "Arial",
+        "fontSize": 34,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTFB": {
+        "str": "After triggering the Feature, the Free Spins Gamble\nWheel is displayed, giving you the chance to win up\nto 24 Free Spins. You can choose to COLLECT or\nGAMBLE.\n\nPress COLLECT to start the Free Spins with the\ncurrent number of Free Spins awarded.\n\nPress GAMBLE to spin the wheel. A successful\ngamble will award four extra Free Spins, as well as\nthe opportunity to play another Free Spins Gamble.\nAn unsuccessful gamble awards the number of Free\nSpins displayed in black. If the number in black is\nzero the feature ends.",
+        "fontFamily": "Arial",
+        "fontSize": 17,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTGA": {
+        "str": "Feature Drop",
+        "fontFamily": "Arial",
+        "fontSize": 34,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTGB": {
+        "str": "Feature Drop allows you to buy the feature.\n\n\nThe feature may be bought for the price\ndisplayed in the Feature Drop Button. If the\nprice is reduced to a zero balance the\nfeature will automatically trigger.",
+        "fontFamily": "Arial",
+        "fontSize": 19,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTGC": {
+        "str": "Feature Drop Symbol",
+        "fontFamily": "Arial",
+        "fontSize": 34,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTGD": {
+        "str": "Feature Drop symbols appear in the reels \nand reduce the price of feature purchase \nby these amounts.\n\n\n\n\n\n\n\n\n\n\n\n\nThe price reduced is multiplied by the stake.",
+        "fontFamily": "Arial",
+        "fontSize": 19,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTHA": {
+        "str": "Each reel alone or with the extra reel can have\nuo to symbols. Each spin can gave up to",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTHB": {
+        "str": "117649 Magaway™ to win!",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "PAYSINFOTEXTHC": {
+        "str": "Wins are awarded on left to right\nadjacent symbols regardless of size.\nPayouts are multiplied by Stake.",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT11": {
+        "str": "Introducing the game",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT12": {
+        "str": "Extra Chilli is a six-reel video slot with reacting wins featuring Big\nTime Gaming's unique Megaways ",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT21": {
+        "str": "How to play ",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT22": {
+        "str": "Select your stake by clicking the left and right arrow buttons on the stake. The\nstake value is displayed in the stake display.\n\nAll payouts are multiplied by the stake of each individual spin.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT31": {
+        "str": "Auto play",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT32": {
+        "str": "To set up Auto play press the Auto button. This will display Auto play panel\nwhich the player can use to  modify the number of spins, set a loss limit or set\na win limit. When a loss limit has been set the  player can select Start to\ncommence auto play.\n\nWhen Auto play Is on, the Play button will change to a Stop button. The\nremaining Auto plays will be displayed in the Stop button. The player can\ncancel Auto play by clicking the Stop button. Auto play will stop automatically\nif any of the limits set is reached or anything occurs that requires player\nintervention.\n\nAuto play may not be available In your Jurisdiction.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT41": {
+        "str": "Feature Drop",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT42": {
+        "str": "Feature Drop allows you to buy the feature for the price displayed in the\nFeature Drop button.\n\nFeature Drop symbols may appear in any position in the reels to reduce the\nprice of the feature purchase. Feature Drop symbols do not appear in the extra\nreel or during a feature.\n\nIf the price Is reduced to a zero balance the feature will automatically trigger.\n\nIn some jurisdictions, the feature cannot be bought if the price is above a\npurchase price limit or if feature buy is disabled",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT51": {
+        "str": "Start the spin",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT52": {
+        "str": "Press the Play button to start the spin at the stake displayed.\n\nThe reels will spin and then come to stop, displaying the result.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT61": {
+        "str": "Extra Reel ",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT62": {
+        "str": "The extra reel adds a symbol to the reel it is below for reels 2,3,4 and 5.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT71": {
+        "str": "Reactions ",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT72": {
+        "str": "All winning symbols except Scatters are part of a reaction and are replaced by\nsymbols coming from above on the reels and from the right in the extra reel.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT81": {
+        "str": "Symbol Wins",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT82": {
+        "str": "A win is matching consecutive symbols, regardless of height, from left to right\nstarting from left most reel.\n\nHighest win paid per winning combination. All winning combinations are\nadded together. See PAYS for turther information.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT91": {
+        "str": "Wild ",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT92": {
+        "str": "Wilds substitute all symbols except Scatters and Feature Drop symbols.\n\nWilds are only present in the extra reel.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT101": {
+        "str": "Scatter ",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT102": {
+        "str": "Get three \"HOT\" Scatters in any position in the base game to win eight Free\nSpins, Any extra Scatter adds an extra four Free Spins.\n\nScatter symbols can appear in any of the reels in the base game except the\nextra reel.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT111": {
+        "str": "Free Spins Gamble",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT112": {
+        "str": "After triggering the Feature, the Free Spins Gamble Wheel is displayed, giving\nyou the chance to win up to 24 Free Spins. You can choose to COLLECT or\nGAMBLE.\n\nPress COLLECT to start the Free Spins with the current number of Free Spins\nawarded.\n\nPress GAMBLE to spin the wheel. A successful gamble will award four extra\nFree Spins, as well as the opportunity to play another Free Spins Gamble. An\nunsuccessful gamble awards the number of Free Spins displayed in black. If\nthe number in black is zero the feature ends.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT121": {
+        "str": "Free Spins ",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT122": {
+        "str": "During Free Spins there is an unlimited win multiplier which starts at 1 and is\nincreased by 1 after each reaction.\n\nFree Spin Scatter symbols can appear in the extra reel and award extra Free\nSpins.\nThe stake that was used to trigger the Free Spins will be used for the Free\nSpins duration.\n\nAt the end of the Free Spins, the total winnings for the spins will be displayed.\nAny winnings will be credited into the players account and regular play then\nresumes.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT131": {
+        "str": "Free Spin Scatter ",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT132": {
+        "str": "The Free Spin Scatter symbol can appear only in the extra reel during Free\nSpins.\n\n3 Free Spin Scatters in any position award 4 extra Free Spins.\n4 Free Spin Scatters award B extra Free Spins.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT141": {
+        "str": "General Information",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT142": {
+        "str": "The game without buying Feature Drop has an RTP of 96.15% -96.41%.\n\nThe game when buying Feature Drop has an RTP of between 96.26% - 96.82%.\n\nIn all cases, the optimal strategy is to always spin the Feature Gamble Wheel.\n\nIn the event of a non-responsive game or problem during a spin, the game will\nrepeat the incomplete spin and display the result to the player when the game\nIs next launched.\n\nIncomplete games will be automatically resolved after 2 days. Any winnings\nresulting from automatic resolve shall be paid to player's account.\n\nSystem malfunction voids all pays and plays.",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT151": {
+        "str": "About",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#ffd163",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "HELPTEXT152": {
+        "str": "\n\n\n\n© BIG TIME GAMING\nv2.43.0-Relax\n12/09/2021",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffebd2",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY":0
+    },
+    "FSS": {
+        "str": "FREE SPINS STAKE",
+        "fontFamily": "Arial",
+        "fontSize": 23,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 41
+    },
+    "FS": {
+        "str": "FREE SPINS",
+        "fontFamily": "Arial",
+        "fontSize": 23,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 41
+    },
+    "WM": {
+        "str": "WIN MULTIPLIER",
+        "fontFamily": "Arial",
+        "fontSize": 23,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 41
+    },
+    "TW": {
+        "str": "TOTAL WINNINGS",
+        "fontFamily": "Arial",
+        "fontSize": 23,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 41
+    },
+    "BUY": {
+        "str": "BUY",
+        "fontFamily": "Arial",
+        "fontSize": 24,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "PLAYED": {
+        "str": "PLAYED",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "REMAINING": {
+        "str": "REMAINING",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "STAKE": {
+        "str": "STAKE",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "ADD_EXTRA": {
+        "str": "ADD EXTRA CHILI?",
+        "fontFamily": "Arial",
+        "fontSize": 24,
+        "fill": "#f7961f",
+        "align": "center",
+        "fontWeight": "bold",
+        "stroke": "#792f00",
+        "strokeThickness": 3,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE_SPINS_GAMBLE": {
+        "str": "FREE SPINS GAMBLE",
+        "fontFamily": "Arial",
+        "fontSize": 51,
+        "fill": "#ffffa6",
+        "align": "center",
+        "fontWeight": "bold",
+        "stroke": "#631b00",
+        "strokeThickness": 5,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "GAMBLE": {
+        "str": "GAMBLE",
+        "fontFamily": "Arial",
+        "fontSize": 25,
+        "fill": "white",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 5,
+        "offsetY": -5
+    },
+    "COLLECT": {
+        "str": "COLLECT",
+        "fontFamily": "Arial",
+        "fontSize": 25,
+        "fill": "white",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 5,
+        "offsetY": -5
+    },
+    "OK": {
+        "str": "OK",
+        "fontFamily": "Arial",
+        "fontSize": 70,
+        "fill": "white",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 5,
+        "offsetY": -5
+    },
+    "FREE_SPINS_AWARDED": {
+        "str": "FREE SPINS\nAWARDED",
+        "fontFamily": "Arial",
+        "fontSize": 54,
+        "fill": "#e5d49c",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "GAMBLE_TO_WIN": {
+        "str": "GAMBLE TO WIN UP\nTO 24 FREE SPINS",
+        "fontFamily": "Arial",
+        "fontSize": 57,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "GAMBLE_MAY_RESULT": {
+        "str": "GAMBLE MAY RESULT\nIN LOSS OF FREE SPINS",
+        "fontFamily": "Arial",
+        "fontSize": 34,
+        "fill": "#000000",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "UNLIMITED_WIN": {
+        "str": "UNLIMITED WIN MULTIPLIER",
+        "fontFamily": "Arial",
+        "fontSize": 24,
+        "stroke": "#631b00",
+        "strokeThickness": 2,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "UNLIMITED_WIN_BODY": {
+        "str": "THE WIN MULTIPLIER BEGINS AT ONE AND\nINCREASES AFTER EVERY REACTION",
+        "fontFamily": "Arial",
+        "fontSize": 24,
+        "stroke": "#ffffff",
+        "strokeThickness": 1,
+        "fill": "#000000",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "MORE_3": {
+        "str": "3 OR MORE SCATTERS WINS EXTRA\nFREE SPINS!",
+        "fontFamily": "Arial",
+        "fontSize": 18,
+        "stroke": "#000000",
+        "strokeThickness": 2,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "START_POPAP_SPINS": {
+        "str": "FREE SPINS",
+        "fontFamily": "Arial",
+        "fontSize": 37,
+        "stroke": "#241100",
+        "strokeThickness": 6,
+        "fill": "#f8e4cb",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "START_POPAP_GAMBEL": {
+        "str": "FREE SPINS\nGAMBLE",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "stroke": "#241100",
+        "strokeThickness": 4,
+        "fill": "#f8e4cb",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "START_POPAP_WIN": {
+        "str": "WIN REACTIONS",
+        "fontFamily": "Arial",
+        "fontSize": 27,
+        "stroke": "#241100",
+        "strokeThickness": 5,
+        "fill": "#f8e4cb",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "START_POPAP_UNLIMITED": {
+        "str": "UNLIMITED",
+        "fontFamily": "Arial",
+        "fontSize": 39,
+        "stroke": "#241100",
+        "strokeThickness": 6,
+        "fill": "#ffc34e",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "START_POPAP_WIN_MUKT": {
+        "str": "WIN MULTIPLAIER",
+        "fontFamily": "Arial",
+        "fontSize": 23,
+        "stroke": "#241100",
+        "strokeThickness": 5,
+        "fill": "#f8e4cb",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "START_POPAP_FREE": {
+        "str": "GAMBLE TO WIN UP\nTO 24 FREE SPINS",
+        "fontFamily": "Arial",
+        "fontSize": 23,
+        "stroke": "#241100",
+        "strokeThickness": 5,
+        "fill": "#f8e4cb",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "START_POPAP_CONTINUE": {
+        "str": "CONTINUE",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#cfd3cf",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "MSG_OK": {
+        "str": "OK",
+        "fontFamily": "Arial",
+        "fontSize": 50,
+        "fill": "white",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 5
+    },
+    "MSG_HEADER": {
+        "fontFamily": "Arial",
+        "fontSize": 33,
+        "stroke": "#000000",
+        "strokeThickness": 3,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "MSG_CONTENT": {
+        "fontFamily": "Arial",
+        "fontSize": 23,
+        "stroke": "#000000",
+        "strokeThickness": 3,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold"
+    },
+    "DWN_BALANCE": {
+        "str": "BALANCE: %c %d",
+        "fontFamily": "Arial",
+        "fontSize": 25,
+        "fill": "#ffffff",
+        "align": "left",
+        "fontWeight": "normal"
+    },
+    "DWN_WIN": {
+        "str": "WIN: %c %d",
+        "fontFamily": "Arial",
+        "fontSize": 25,
+        "fill": "#ffffff",
+        "align": "right",
+        "fontWeight": "normal"
+    },
+    "DWN_MSG": {
+        "fontFamily": "Arial",
+        "fontSize": 25,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "normal"
+    }
+
+
+}

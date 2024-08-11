@@ -1,0 +1,26 @@
+{
+    "LIB_BIG_WIN": {
+        "str": "BIG WIN!",
+        "fontFamily": "D891-Deco"
+    },
+    "LIB_SUPER_WIN": {
+        "str": "SUPER WIN!",
+        "fontFamily": "D891-Deco"
+    },
+    "LIB_MEGA_WIN": {
+        "str": "MEGA WIN!",
+        "fontFamily": "D891-Deco"
+    },
+    "LIB_EPIC_WIN": {
+        "str": "EPIC WIN!",
+        "fontFamily": "D891-Deco"
+    },
+    "LIB_MEGAWAYS": {
+        "str": "MEGAWAYS",
+        "fontFamily": "D891-Deco"
+    },
+    "LIB_TM": {
+        "str": "TM",
+        "fontFamily": "D891-Deco"
+    }
+}

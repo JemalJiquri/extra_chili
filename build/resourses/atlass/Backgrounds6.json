@@ -1,0 +1,64 @@
+{
+    "frames": {
+        "BGDusk_01_01": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1024,
+                "h": 512
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1024,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 1024,
+                "h": 512
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "BGDusk_01_02": {
+            "frame": {
+                "x": 0,
+                "y": 512,
+                "w": 1024,
+                "h": 512
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1024,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 1024,
+                "h": 512
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "Backgrounds6.jpg",
+        "format": "RGB888",
+        "size": {
+            "w": 1024,
+            "h": 1024
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:670ff825af1f9ae27e1e274ef370416b:3cc23596171d46f15e3aa056dfa323a3:8d9452e8da0384041151f7efc69b4489$"
+    }
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <title>Extra Chilli</title>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, shrink-to-fit=no"/>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="css/html5reset.css">
+    <style>body {background-color: black;}</style>
+</head>
+<body>
+
+<script src="js/extrachilli.libs.min.js?h=a928a9b5d178b7c979e884affd93a55e"></script>
+<script src="js/extrachilli.min.js?h=505d52d38553cd5127480015b2efc3d7"></script>
+<div id="main">
+    <script>
+        var apiMapper = new relax.apimappers.RelaxAPIMapper();
+        var game = new extrachilli.ExtraChilliGame(
+            "main",
+            "",
+            "ExtraChilli",
+            new extrachilli.services.ExtraChilliRelaxRequestService(),
+            new extrachilli.services.ExtraChilliRelaxResponseService()
+        );
+        game.startLoading();
+    </script>
+</div>
+</body>
+</html>

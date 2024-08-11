@@ -1,0 +1,184 @@
+{
+    "frames": {
+        "ExtraChilliScreen/GambleSlot_Red": {
+            "frame": {
+                "x": 2,
+                "y": 2,
+                "w": 158,
+                "h": 121
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 121
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 121
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "ExtraChilliScreen/GambleSlot_Red_Active": {
+            "frame": {
+                "x": 162,
+                "y": 2,
+                "w": 158,
+                "h": 121
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 121
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 121
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FeatureDrop/FDStar_01": {
+            "frame": {
+                "x": 2,
+                "y": 256,
+                "w": 142,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 142,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 142,
+                "h": 142
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "FeatureDrop/FDSymbol_04": {
+            "frame": {
+                "x": 322,
+                "y": 2,
+                "w": 150,
+                "h": 125
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 125
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 125
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Scatter_BG_4": {
+            "frame": {
+                "x": 306,
+                "y": 129,
+                "w": 150,
+                "h": 125
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 125
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 125
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "SYM_BG_4": {
+            "frame": {
+                "x": 2,
+                "y": 125,
+                "w": 150,
+                "h": 125
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 125
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 125
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "SYM_Main_BG_4": {
+            "frame": {
+                "x": 154,
+                "y": 125,
+                "w": 150,
+                "h": 125
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 125
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 125
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "GameElements13.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 512,
+            "h": 512
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:f2a6d46fc2f76a03f2380372c2563cc5:e5eb08a16b79e9611aa660c2be0c57d9:cf2e57e698cd4b7e02433bd2c5c14c0e$"
+    }
+}

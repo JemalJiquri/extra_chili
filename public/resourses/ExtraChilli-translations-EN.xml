@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<translations>
+	<!-- Pays Generic -->
+	<textvalue id="PAYS_MEGA_WAYS_1"					text="117649 Megaways&#8482; to win!" />
+	<textvalue id="PAYS_WILDS_TITLE"					text="FULL REEL WILDS"/>
+	<textvalue id="PAYS_WAYS_TO_WIN_0"					text="Wins are awarded on left to right adjacent symbols regardless of size.&#10;Payouts are multiplied by Stake."/>
+	<textvalue id="PAYS_ICON_RULES_0" 					text="MATCHING SYMBOLS PAY FROM LEFT TO RIGHT REGARDLESS OF HEIGHT"/>
+	<textvalue id="WILD"								text="Wild"/>
+	<textvalue id="SCATTER"								text="Scatter"/>
+	<textvalue id="PAYOUTS_MULTIPLIED_BY_STAKE"			text="Payouts are multiplied by stake."/>
+	<!-- Help Generic -->
+	<textvalue id="INTRO_GAME_TITLE" 					text="Introducing the game"/>
+	<textvalue id="HOW_TO_PLAY_TITLE" 					text="How to play"/>
+	<textvalue id="HOW_TO_PLAY_INFO_0"  				text="Select your stake by clicking the left and right arrow buttons on the stake. The stake value is displayed in the stake display."/>
+	<textvalue id="HOW_TO_PLAY_INFO_1"  				text="All payouts are multiplied by the stake of each individual spin."/>
+	<textvalue id="START_THE_SPIN_TITLE" 				text="Start the spin"/>
+	<textvalue id="START_THE_SPIN_INFO_0" 				text="Press the Play button to start the spin at the stake displayed."/>
+	<textvalue id="START_THE_SPIN_INFO_1" 				text="The reels will spin and then come to stop, displaying the result."/>
+	<textvalue id="AUTO_PLAY_TITLE" 					text="Auto play"/>
+	<textvalue id="AUTO_PLAY_INFO_0" 					text="To set up Auto play press the Auto button. This will display Auto play panel which the player can use to modify the number of spins, set a loss limit or set a win limit. When a loss limit has been set the player can select Start to commence auto play."/>
+	<textvalue id="AUTO_PLAY_INFO_1" 					text="When Auto play is on, the Play button will change to a Stop button. The remaining Auto plays will be displayed in the Stop button. The player can cancel Auto play by clicking the Stop button. Auto play will stop automatically if any of the limits set is reached or anything occurs that requires player intervention."/>
+	<textvalue id="AUTO_PLAY_INFO_2" 					text="Auto play may not be available in your jurisdiction."/>
+	<textvalue id="FULL_REEL_WILD_ICON_TITLE"  			text="Full Reel Wild icons"/>
+	<textvalue id="FULL_REEL_WILD_ICON_INFO_1" 			text="All involved combinations are multiplied by 1 unless otherwise shown on the symbol"/>
+	<textvalue id="FREE_SPINS_FEATURE_TITLE" 			text="Free Spins Feature"/>
+	<textvalue id="FREE_SPINS_FEATURE_INFO_1" 			text="The stake that was used to trigger the Free Spins will be used for the Free Spins duration."/>
+	<textvalue id="FREE_SPINS_FEATURE_INFO_2" 			text="At the end of the Free Spins, the total winnings for the spins will be displayed. Any winnings will be credited into the players account and regular play then resumes."/>
+	<textvalue id="MEGAWAYS_TITLE" 						text="Megaways&#8482;"/>
+	<textvalue id="SYMBOL_WINS_TITLE" 					text="Symbol Wins"/>
+	<textvalue id="SYMBOL_WINS_INFO_1" 					text="Highest win paid per winning combination. All winning combinations are added together. See PAYS for further information."/>
+	<textvalue id="GENERAL_INFO_TITLE" 					text="General Information"/>
+	<textvalue id="GENERAL_INFO_0"						text="The game has an RTP of @@RTP-PARTA.@@RTP-PARTB%."/>
+	<textvalue id="GENERAL_INFO_1" 						text="In the event of a non-responsive game or problem during a spin, the game will repeat the incomplete spin and display the result to the player when the game is next launched."/>
+	<textvalue id="GENERAL_INFO_2" 						text="Incomplete games will become void after 90 days and will be forfeited to charity."/>
+	<textvalue id="GENERAL_INFO_2_RELAX"				text="Incomplete games will be automatically resolved after 2 days. Any winnings resulting from automatic resolve shall be paid to player's account."/>
+	<textvalue id="GENERAL_INFO_2_PA" 					text="In the event of an interruption during the presentation of a result (for example, due loss of connectivity), the correct value of any winnings for that result will be credited to the player's account."/>
+	<textvalue id="GENERAL_INFO_3" 						text="System malfunction voids all pays and plays."/>
+	<textvalue id="GENERAL_INFO_3_PA" 					text="The following game features and settings may be subject to the terms and conditions of the gaming site. For more information on the following, refer to the gaming website:"/>
+	<textvalue id="GENERAL_INFO_3_PA_A" 				text="&#8226; The procedures used to manage unfinished game rounds."/>
+	<textvalue id="GENERAL_INFO_3_PA_B" 				text="&#8226; The time after which inactive game sessions automatically end."/>
+	<textvalue id="GENERAL_INFO_4_IGT" 					text="Wins are shown in currency."/>
+	<textvalue id="AVG_PAYOUT_PER_EURO"					text="The average payout per 1 Euro spent is @@AVERAGERTP-PARTA.@@AVERAGERTP-PARTB cents."/>
+	<textvalue id="TOP_PRIZE_DE_SG"						text="The max single prize is €50."/>
+	<textvalue id="TOP_PRIZE_PROBABILITY"				text="The probability of the max prize is 0.01844%"/>
+	<textvalue id="ABOUT" 								text="About"/>
+	<!-- UI -->
+	<textvalue id="BUY"									text="BUY" />
+	<textvalue id="CONTINUE" 							text="CONTINUE"/>
+	<textvalue id="DO_NOT_SHOW_AGAIN" 					text="Do not show again"/>
+	<textvalue id="STAKE" 								text="STAKE"/>
+	<textvalue id="TOTAL_WINNINGS"						text="TOTAL WINNINGS"/>
+	<textvalue id="FREE_SPINS" 							text="FREE SPINS"/>
+	<textvalue id="FREE_SPIN_STAKE"						text="FREE SPINS STAKE"/>
+	<textvalue id="FREE_SPINS_PLAYED"					text="PLAYED"/>
+	<textvalue id="FREE_SPINS_REMAINING"				text="REMAINING"/>
+	<textvalue id="BALANCE"								text="BALANCE"/>
+	<textvalue id="WIN"									text="WIN"/>
+	<textvalue id="OK"									text="OK"/>
+	<textvalue id="YES"									text="YES"/>
+	<textvalue id="NO"									text="NO"/>
+	<textvalue id="CANCEL"								text="CANCEL"/>
+	<!-- Gamble Feature -->
+	<textvalue id="GAMBLE_WON"							text="GAMBLE WON"/>
+	<textvalue id="GAMBLE_LOST"							text="GAMBLE LOST"/>
+	<textvalue id="GAMBLE_COLLECTED"					text="GAMBLE COLLECTED"/>
+	<textvalue id="COLLECT_GAMBLESCREEN"				text="COLLECT"/>
+	<textvalue id="GAMBLE_GAMBLESCREEN"					text="GAMBLE"/>
+	<textvalue id="GAMBLE_FEATURE_INFO_TITLE"			text="GAMBLE FEATURE"/>
+	<textvalue id="GAMBLE_FEATURE_INFO_0"				text="Press GAMBLE for the opportunity to go DOUBLE OR NOTHING up to 5 times with every win."/>
+	<textvalue id="GAMBLE_FEATURE_INFO_1"				text="Every win will enable the GAMBLE button."/>
+	<textvalue id="GAMBLE_FEATURE_INFO_2" 				text="In some cases the Gamble Feature may be disabled."/>
+    <textvalue id="GAMBLE_FEATURE_INFO_3" 				text="Gamble Feature is disabled during Auto play."/>
+	<!-- Game Messages -->
+	<textvalue id="INFORMATION_TITLE"					text="Information"/>
+	<textvalue id="RECOVERED_GAME_TITLE"				text="Information"/>
+	<textvalue id="RECOVERED_GAME_INFO_0"				text="Recovering unfinished game.."/>
+    <textvalue id="PLEASE_RESTART"						text="Please restart the game." />
+	<!-- Free Spin Window -->
+	<textvalue id="FREE_SPINS_AWARDED"					text="FREE SPINS AWARDED" />
+	<!-- Talkback -->
+	<textvalue id="WAYS" 								text="WAYS"/>
+	<textvalue id="WAY" 								text="WAY"/>
+	<textvalue id="BONUS_TRIGGERED" 					text="BONUS TRIGGERED"/>
+	<textvalue id="BONUS_COMPLETE" 						text="BONUS COMPLETE"/>
+	<!-- Menu -->
+	<textvalue id="PAYS" 								text="PAYS"/>
+	<textvalue id="AUTO" 								text="AUTO"/>
+	<textvalue id="OPTIONS" 							text="OPTIONS"/>
+	<textvalue id="HELP" 								text="HELP"/>
+	<!-- Options -->
+	<textvalue id="SOUNDS" 								text="Sounds"/>
+	<textvalue id="ON" 									text="On"/>
+	<textvalue id="OFF" 								text="Off"/>
+	<!-- Auto Play -->
+	<textvalue id="LOSS_AMOUNT_DEFAULT"					text="Please set"/>
+	<textvalue id="NO_LIMIT"							text="No Limit"/>
+	<textvalue id="SPIN_LIMIT_LABEL"					text="Number of spins"/>
+	<textvalue id="LOSS_LIMIT_LABEL"					text="Loss limit"/>
+	<textvalue id="WIN_LIMIT_LABEL"						text="Single win limit"/>
+	<textvalue id="CONTROLS_INFO_0"						text="Select events that will cancel your Auto play session.&#10;You can stop Auto play at any time by pressing the Stop button."/>
+	<textvalue id="CONTROLS_INFO_1"						text="If multiple options are chosen any limit reached will stop the Auto play session."/>
+	<textvalue id="START"								text="START"/>
+	<!-- Auto Play Message -->
+	<textvalue id="AUTO_PLAY_INFO_TITLE"				text="Auto Play Information"/>
+	<textvalue id="AUTO_PLAY_INFO_STOPPED"				text="Auto play has stopped due to:"/>
+	<textvalue id="AUTO_PLAY_INFO_LOSS_LIMIT"			text="&#10;- loss limit reached"/>
+	<textvalue id="AUTO_PLAY_INFO_WIN_LIMIT"			text="&#10;- single win limit reached"/>
+	<textvalue id="AUTO_PLAY_INFO_JACKPOT_WON"			text="&#10;- jackpot won"/>
+	<!-- NEXTGEN ERROR CODES -->
+	<textvalue id="ERROR_TITLE"							text="Error" />
+	<textvalue id="ERROR_PROTOCOL"						text="Unknown protocol message" />
+	<textvalue id="ERROR_PROTOCOL_SEQUENCE"				text="Incorrect Sequence of messages" />
+	<textvalue id="ERROR_UNKNOWN_PARAMETER"				text="Unknown parameter in protocol" />
+	<textvalue id="ERROR_MISSING_PARAMETER"				text="Missing parameter in protocol" />
+	<textvalue id="ERROR_PARAMETER_VALUE"				text="Parameter Values is wrong" />
+	<textvalue id="ERROR_BET_LIMITS"					text="Bet amount out of limits" />
+	<textvalue id="ERROR_LINES"							text="Incorrect number of lines" />
+	<textvalue id="ERROR_FEATURE_PARAMETERS"			text="Feature Parameters incorrect" />
+	<textvalue id="ERROR_JACKPOT"						text="Unknown Jackpot error" />
+	<textvalue id="ERROR_UNKNOWN"						text="Unknown error" />
+	<textvalue id="ERROR_NULL"							text="Server communications lost" />
+	<textvalue id="ERROR_COMMUNICATIONS"				text="Server communications lost" />
+	<textvalue id="ERROR_INSUFFICIENTFUNDS"				text="Not enough balance for the bet.&#10;Adjust bet or add funds to continue play." />
+	<textvalue id="ERROR_STATESAVE"						text="Error trying to save the state" />
+	<textvalue id="ERROR_STARTGAME"						text="Error trying to start the game" />
+	<textvalue id="ERROR_ENDGAME"						text="Error trying to end the game" />
+	<textvalue id="ERROR_GAMENOTSUPPORTED"				text="Game isn't supported by the system" />
+	<textvalue id="ERROR_TIMEOUT"						text="You have been disconnected from the Server.  Please restart the game." />
+	<textvalue id="ERROR_SERVLET"						text="Server communications lost" />
+	<textvalue id="ERROR_DEFAULT"						text="Server communications lost" />
+	<textvalue id="ERROR_GAMING_LIMITS"					text="Gaming limits reached" />
+	<textvalue id="ERROR_INVALID_SESSION"				text="Player session is not valid" />
+	<textvalue id="ERROR_INVALID_SESSI"					text="Player session is not valid" />
+	<textvalue id="ERROR_ACCOUNT_BLOCKED"				text="Player account locked" />
+	<textvalue id="ERROR_GENERIC_CONTACT_SUPPORT"		text="A technical error has occurred. If it persists please contact customer support."/>
+	<textvalue id="ERROR_GENERIC_TRY_AGAIN"				text="A technical error has occurred. Please try again."/>
+	<!-- FREE ROUNDS -->
+	<textvalue id="FREE_ROUND_TITLE"					text="Free Spins" />
+	<textvalue id="FREE_ROUND_STAKE"					text="FREE SPIN STAKE" />
+	<textvalue id="FREE_ROUND_INITIAL"					text="Congratulations!&#10;You have %d Free Spins.&#10;Play Free Spins Now?" />
+	<textvalue id="FREE_ROUND_FINAL"					text="Congratulations!&#10;You have %d Free Spins.&#10;Good Luck!" />			<!-- & RELAX FR -->
+	<textvalue id="FREE_ROUND_FINISHED_WITH_WINNINGS"	text="Congratulations! You have won %c in Free Spins. Free Spins has now ended. Funds will now be used from your account. Your bet amount will now be reset back to the default." />
+	<textvalue id="FREE_ROUND_FINISHED_NO_WINNINGS"		text="Free Spins has now ended. Funds will now be used from your account. Your bet amount will now be reset back to the default." />
+	<textvalue id="FREE_ROUND_ERROR"					text="You were awarded Free Spins, but an error has occurred." />
+	<textvalue id="FREE_ROUND_EXPIRED"					text="Free Spins Expired" />
+	<!-- FeatureDrop -->
+	<textvalue id="FD_BUT_CANCEL_LABEL"					text="CANCEL"/>
+	<textvalue id="FD_BUT_START_LABEL"					text="START"/>
+	<textvalue id="FD_PRICE_LABEL"						text="PRICE"/>
+	<textvalue id="FD_RTPINFO"							text=""/>
+	<textvalue id="FD_WARNING"							text="WARNING"/>
+	<textvalue id="FD_INFO_0"							text="Press Start to trigger free spins at the price displayed.&#10;Your current stake will apply to each free spin."/>
+	<textvalue id="FEATURE_DROP"						text="Feature Drop"/>
+	<textvalue id="FEATUREDROP_INTRO_INFO_0"			text="BUY THE FEATURE"/>
+	<textvalue id="FEATUREDROP_INTRO_INFO_1"			text="FEATURE PRICE IS REDUCED WITH EACH COIN"/>
+	<textvalue id="FEATURE_DROP_INFO_0"					text="Feature Drop allows you to buy the feature."/>
+	<textvalue id="FEATURE_DROP_INFO_1"					text="The feature may be bought for the price displayed in the Feature Drop button. If the price is reduced to a zero balance the feature will automatically trigger."/>
+	<textvalue id="FEATURE_DROP_SYMBOL"					text="Feature Drop Symbol"/>
+	<textvalue id="FEATURE_DROP_SYMBOL_INFO_0"			text="Feature Drop symbols appear in the reels and reduce the price of the feature purchase by these amounts."/>
+	<textvalue id="FEATURE_DROP_SYMBOL_INFO_1"			text="The price reduced is multiplied by the stake."/>
+	<textvalue id="FEATURE_DROP_PRICE_LIMIT_INFO_0"		text="In some jurisdictions, the feature cannot be bought if the price is above a purchase price limit or if feature buy is disabled."/>
+	<textvalue id="FEATURE_DROP_PRICE_LIMIT_IS"			text="The purchase price limit is %s."/>
+	<textvalue id="FEATURE_DROP_BUY_ERROR"				text="An error occurred. Unable to buy feature."/>
+	<textvalue id="FEATURE_DROP_BUY_UNAVAILABLE"		text="Feature buy is unavailable."/>
+	<textvalue id="FEATURE_DROP_WILL_AUTOTRIGGER"		text="When the price is reduced to zero the feature will automatically trigger."/>
+	<!-- FR2 -->
+	<textvalue id="PRIZE_SPINS"							text="SPINS" />						<!-- & RELAX FR -->
+	<textvalue id="PRIZE_X"								text="X" />							<!-- & RELAX FR -->
+	<textvalue id="CONGRATULATIONS"						text="CONGRATULATIONS!" />			<!-- & RELAX FR -->
+	<textvalue id="FREE_ROUNDS1_INFO_1"					text="You have %d Free Spins. Good Luck!" />
+	<textvalue id="FREE_ROUNDS2_INFO_1"					text="You have %d Free Spins.&#10;Play Free Spins Now?" />
+	<textvalue id="FREE_ROUNDS4_INFO_0"					text="Free Spins Awarded. Please choose your option:" />
+	<textvalue id="EXPIRY"								text="Expiry Time: %s" />
+	<textvalue id="USENOW"								text="USE NOW" />
+	<textvalue id="USELATER"							text="USE LATER" />
+	<!-- RESPONSIBLE GAMING -->
+	<textvalue id="RESPONSIBLEGAMBLING"					text="Responsible Gaming" />
+	<!-- MGS Free Games -->
+	<textvalue id="DISCARD_OFFER"						text="Discard Offer" />
+	<textvalue id="OFFER_TITLE"							text="Offers" />
+	<textvalue id="DISCARD_CONFIRM"						text="Are you sure you want to discard the offer now?" />
+	<textvalue id="DISCARDOFFER"						text="Discard" />
+	<textvalue id="PLAYNOW"								text="Play Now" />					<!-- & RELAX FR -->
+	<textvalue id="PLAYLATER"							text="Play Later" />				<!-- & RELAX FR -->
+	<textvalue id="YOU_HAVE"							text="You have" />
+	<textvalue id="ACTION_WARNING"						text="This action cannot be undone." />
+	<textvalue id="FREE_GAMES_COMPLETE"					text="Free Games Complete" />
+	<textvalue id="NO_MORE_OFFERS"						text="There are no more offers available" />
+	<textvalue id="FREE_GAMES_REMAINING"				text="Free Games Remaining" />
+	<textvalue id="REMAINING"							text="Remaining" />
+	<textvalue id="COMPLETED_WINNINGS_ADDED" 			text="All winnings from those Free Games&#10;that were completed have already been&#10;added to your balance." />
+	<textvalue id="WINNINGS_ADDED_TO_CASH"				text="Winnings Added To Cash Balance" />
+	<textvalue id="WINNINGS_ADDED_TO_BONUS"				text="Winnings Added To Bonus Balance" />
+	<textvalue id="FREE_GAMES"							text="Free Games" />
+	<textvalue id="RESUMEPLAY"							text="Resume Play" />
+	<textvalue id="BACKTOGAME"							text="Back to Game" />
+	<textvalue id="NEXTOFFER"							text="Next Offer" />
+	<textvalue id="KEEPIT"								text="Keep It" />
+	<textvalue id="FREE_GAME_EXPIRED"					text="FREE GAMES SESSION ID %d-%d HAS EXPIRED" />
+	<textvalue id="EXPIRY2"								text="Expiry: %s" />
+	<textvalue id="FREE"								text="Free" />
+	<!-- RELAX Free Rounds -->
+	<textvalue id="YOU_HAVE_FREE_SPINS"					text="You have Free Spins!" />
+	<textvalue id="PLEASE_CHOOSE_BELOW"					text="Please choose below:" />
+	<textvalue id="TOTAL_VALUE"							text="Total Value: %s" />
+	<textvalue id="NOTHANKS"							text="No Thanks" />
+	<!-- RELAX Reality Check / Options -->
+	<textvalue id="CONTINUE_PLAYING"					text="Continue Playing" />
+	<textvalue id="EXIT_GAME"							text="Exit Game" />
+	<textvalue id="SHOW_HISTORY"						text="Show History" />
+	<textvalue id="PLAYING_FOR_MINUTES"					text="You've been playing for: %d minutes" />
+	<textvalue id="YOU_HAVE_WAGERED"					text="You have wagered: %s" />
+	<textvalue id="YOU_HAVE_WON"						text="You have won: %s" />
+	<textvalue id="RESULT"								text="Result: %s" />
+	<textvalue id="REPLAY"								text="Replay" />
+	<textvalue id="TOGGLEFULLSCREEN"                    text="Full Screen" />
+	<!-- RELAX Error Messages -->
+	<textvalue id="RG_ERROR_503"						text="Your session has expired. Close and reopen the game to continue." />
+	<textvalue id="RG_ERROR_520"						text="Session moved to another browser. Close and reopen the game if you wish to continue playing here." />
+	<textvalue id="RG_ERROR_521"						text="Authentication failed." />
+	<textvalue id="RG_ERROR_522"						text="Partner cashier error" />
+	<textvalue id="RG_ERROR_523"						text="Technical problem. Your account has not been charged, please try again later." />
+	<textvalue id="RG_ERROR_524"						text="This game is currently disabled." />
+	<textvalue id="RG_ERROR_531"						text="You are currently blocked from playing." />
+	<textvalue id="RG_ERROR_533"						text="Not enough tokens for chosen betsize (533)." />
+	<textvalue id="RG_ERROR_534"						text="Login attempt comes from blocked region (534)." />
+	<textvalue id="RG_ERROR_535"						text="Client version is too old (535)." />
+	<textvalue id="RG_ERROR_540"						text="Player has active session at same game at another server (540)." />
+	<textvalue id="RG_ERROR_543"						text="There is not enough money on your cash or Voucher balance. Try to lower your bet size or deposit to play." />
+	<textvalue id="RG_ERROR_544"						text="You've exceeded your spending limit" />
+	<textvalue id="RG_ERROR_545"						text="Reality check loss limit reached" />
+	<textvalue id="RG_ERROR_546"						text="Reality check session length reached" />
+	<textvalue id="RG_ERROR_554"						text="Blocked from playing - daily time limit exceeded." />
+	<textvalue id="RG_ERROR_555"						text="Blocked from playing - weekly time limit exceeded." />
+	<textvalue id="RG_ERROR_556"						text="Blocked from playing - monthly time limit exceeded." />
+	<textvalue id="RG_ERROR_600"						text="An error occurred (600). Please try again later." />
+	<textvalue id="MISC_ERROR"							text="An error occurred (%s)." />
+	<!-- Award Cap -->
+	<textvalue id="AWARD_CAP_INFO_0" 					text="In some jurisdictions and casinos, an award cap might be in place."/>
+	<textvalue id="AWARD_CAP_INFO_1" 					text="This casino or jurisdiction has an award cap of %s."/>
+	<textvalue id="AWARD_CAP_INFO_2" 					text="The total win for any bet cannot be higher than the award cap."/>
+	<textvalue id="AWARD_CAP_INFO_3" 					text="If the award cap is reached during a feature then the feature ends immediately."/>
+	<textvalue id="AWARD_CAP_INFO_4" 					text="To find out if an award cap is in place, check the in-game Help and the casino's terms and conditions."/>
+	<textvalue id="AWARD_CAP_REACHED_MESSAGE" 			text="YOU HAVE WON THE MAXIMUM AWARD!"/>
+
+	<!-- Intro screen -->
+	<textvalue id="WIN_REACTIONS"						text="WIN REACTIONS"/>
+	<textvalue id="WIN_REACTIONS_INTRO_INFO_0"			text="EVERY WIN&#10;TRIGGERS A REACTION!"/>
+	<textvalue id="FREE_SPINS_INTRO_INFO_0"				text="WIN MULTIPLIER"/>
+	<textvalue id="FREE_SPINS_INTRO_INFO_1"				text="UNLIMITED"/>
+
+	<!-- feature drop -->
+	<textvalue id="FD_WARNING_INFO_0"					text=""/>
+
+	<!-- Gamble Intro -->
+	<textvalue id="GAMBLE_INTRO_TITLE"					text="ADD EXTRA CHILLI?"/>
+	<textvalue id="GAMBLE_INTRO_INFO_0"					text="GAMBLE TO WIN UP TO 24 FREE SPINS"/>
+	<textvalue id="GAMBLE_INTRO_INFO_1"					text="GAMBLE MAY RESULT IN LOSS OF FREE SPINS"/>
+
+	<!-- Feature Intro -->
+	<textvalue id="FREE_SPINS_AWARDED"					text="FREE SPINS AWARDED"/>
+	<textvalue id="FEATURE_INTRO_TITLE_1"				text="UNLIMITED WIN MULTIPLIER"/>
+	<textvalue id="FEATURE_INTRO_INFO_0"				text="THE WIN MULTIPLIER BEGINS AT ONE AND INCREASES AFTER EVERY REACTION"/>
+	<textvalue id="FEATURE_INTRO_INFO_1"				text="3 OR MORE SCATTERS WINS EXTRA FREE SPINS!"/>
+	
+	<!-- Pays -->
+	<textvalue id="PAYS_WIN_0"							text="Wins begin with leftmost reel and pay left to right on consecutive reels.&#10;Payouts are multiplied by stake."/>
+	<textvalue id="WIN_MULTIPLIER_INFO_TITLE"			text="Unlimited Win Multiplier"/>
+	<textvalue id="WIN_MULTIPLIER_INFO_0"				text="Win multiplier starts at one and increases after every reaction."/>
+	<textvalue id="BONUS_SCATTER_INFO_TITLE"			text="Free Spin Scatter"/>
+	<textvalue id="BONUS_SCATTER_INFO_0"				text="The Free Spin Scatter can appear in the extra reel during Free Spins.&#10;3 = four extra Free Spins.&#10;4 = eight extra Free Spins."/>
+	<textvalue id="FREE_SPINS_FEATURE_TITLE"			text="Free Spins"/>
+	<textvalue id="PAYS_MEGA_WAYS_0"					text="Each reel alone or with the extra reel can have up to 7 symbols. Each spin can have up to "/>
+
+	<textvalue id="SCATTER_PAY_INFO_0"					text="Get three &quot;HOT&quot; Scatters to win 8 Free Spins."/>
+	<textvalue id="WILD_PAY_INFO_01"					text="Wilds substitute all symbols except Scatters and Feature Drop symbols."/>
+	<textvalue id="SCATTER_PAY_INFO_1"					text="Every extra Scatter adds an extra four Free Spins."/>
+
+	<textvalue id="COLLECT"								text="COLLECT"/>
+	<textvalue id="GAMBLE"								text="GAMBLE"/>
+	<textvalue id="FREE_SPINS_GAMBLE"					text="Free Spins Gamble"/>
+	<textvalue id="FREE_SPINS_GAMBLE_INFO_0"			text="After triggering the Feature, the Free Spins Gamble Wheel is displayed, giving you the chance to win up to 24 Free Spins. You can choose to COLLECT or GAMBLE.&#10;&#10;Press COLLECT to start the Free Spins with the current number of Free Spins awarded.&#10;&#10;Press GAMBLE to spin the wheel. A successful gamble will award four extra Free Spins, as well as the opportunity to play another Free Spins Gamble. An unsuccessful gamble awards the number of Free Spins displayed in black. If the number in black is zero the feature ends."/>
+	<textvalue id="EXTRA_REEL"							text="Extra Reel"/>
+	<textvalue id="EXTRA_REEL_INFO_0"					text="The extra reel adds a symbol to the reel it is below for reels 2,3,4 and 5."/>
+
+	<!-- new Translations -->
+    <textvalue id="WIN_MULTIPLIER"				        text="WIN MULTIPLIER"/>
+
+	<!-- Help -->
+	<textvalue id="INTRO_GAME_INFO_0" 					text="Extra Chilli is a six-reel video slot with reacting wins featuring Big Time Gaming’s unique Megaways&#8482;"/>
+	<textvalue id="INTRO_GAME_INFO_2" 					text="A Megaways&#8482; slot can produce up to 7 symbols per reel each spin. The extra reel adds a symbol to reels 2,3,4 and 5, Each spin can have from 2 and 7 symbols and each spin can have up to 117649 MEGAWAYS&#8482; to win."/>
+	<textvalue id="REACTIONS_INFO_TITLE" 				text="Reactions"/>
+	<textvalue id="REACTIONS_INFO_0" 					text="All winning symbols except Scatters are part of a reaction and are replaced by symbols coming from above on the reels and from the right in the extra reel."/>
+	<textvalue id="WILD_ICON_INFO_1" 					text="Wilds are only present in the extra reel."/>
+	<textvalue id="SCATTER_ICON_INFO_0" 				text="Get three &quot;HOT&quot; Scatters in any position in the base game to win eight Free Spins. Any extra Scatter adds an extra four Free Spins."/>
+	<textvalue id="SCATTER_ICON_INFO_1" 				text="Scatter symbols can appear in any of the reels in the base game except the extra reel."/>
+	<textvalue id="FREE_SPINS_FEATURE_INFO_0" 			text="During Free Spins there is an unlimited win multiplier which starts at 1 and is increased by 1 after each reaction."/>	
+	<textvalue id="FREE_SPINS_FEATURE_INFO_1" 			text="Free Spin Scatter symbols can appear in the extra reel and award extra Free Spins.&#10;The stake that was used to trigger the Free Spins will be used for the Free Spins duration."/>
+	<textvalue id="FREE_SPINS_FEATURE_INFO_2" 			text="At the end of the Free Spins, the total winnings for the spins will be displayed. Any winnings will be credited into the players account and regular play then resumes."/>
+	<textvalue id="FREE_SPIN_FEATURE_SCATTER_TITLE" 	text="Free Spin Scatter"/>
+	<textvalue id="FREE_SPIN_FEATURE_SCATTER_INFO_0" 	text="The Free Spin Scatter symbol can appear only in the extra reel during Free Spins."/>
+	<textvalue id="FREE_SPIN_FEATURE_SCATTER_INFO_1" 	text="3 Free Spin Scatters in any position award 4 extra Free Spins.&#10;4 Free Spin Scatters award 8 extra Free Spins."/>
+	<textvalue id="FEATURE_DROP_HELP_INFO_0"			text="Feature Drop allows you to buy the feature for the price displayed in the Feature Drop button."/>
+	<textvalue id="FEATURE_DROP_HELP_INFO_1"			text="Feature Drop symbols may appear in any position in the reels to reduce the price of the feature purchase. Feature Drop symbols do not appear in the extra reel or during a feature."/>
+	<textvalue id="FEATURE_DROP_HELP_INFO_2"			text="If the price is reduced to a zero balance the feature will automatically trigger." />
+
+	<textvalue id="SYMBOL_WINS_INFO_0" 					text="A win is matching consecutive symbols, regardless of height, from left to right starting from left most reel."/>
+	<textvalue id="GENERAL_INFO_0A" 					text="The game without buying Feature Drop has an RTP of 96.15% - 96.41%."/>
+	<textvalue id="GENERAL_INFO_0B" 					text="The game when buying Feature Drop has an RTP of between 96.26% - 96.82%."/>
+	<textvalue id="STRATEGY_INFO_0" 					text="In all cases, the optimal strategy is to always spin the Feature Gamble Wheel."/>
+	<textvalue id="AVG_PAYOUT_PER_EURO"					text="The average payout per 1 Euro spent is 96 cents."/>
+
+</translations>

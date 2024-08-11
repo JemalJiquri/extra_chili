@@ -1,0 +1,26 @@
+{
+    "AUTO_MSG_HEADER": {
+        "str": "Auto Play Information"
+    },
+    "AUTO_MSG_LOSS": {
+        "str": "Auto play has stopped due to:\n-loss limit reached"
+    },
+    "AUTO_MSG_WIN": {
+        "str": "Auto play has stopped due to:\n-win limit reached"
+    },
+    "BOTTOM_WIN": {
+        "str": "%w WAY = %c %d"
+    },
+    "BONUS_TRIGGER": {
+        "str": "BONUS TRIGGERED"
+    },
+    "BONUS_COMPLETED": {
+        "str": "BONUS COMPLETED"
+    },
+    "INFO_MSG_HEADER": {
+        "str": "Information"
+    },
+    "BALANCE_ERROR_MSG": {
+        "str": "Not enough balance for bet.\nAdjust bet or add funds to continue play."
+    }
+}

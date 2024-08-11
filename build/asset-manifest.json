@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/extrachilli/static/js/main.js",
+    "main.css": "/extrachilli/static/css/main.e6c13ad2.css",
+    "static/js/453.chunk.js": "/extrachilli/static/js/453.chunk.js",
+    "index.html": "/extrachilli/index.html",
+    "main.js.map": "/extrachilli/static/js/main.js.map",
+    "main.e6c13ad2.css.map": "/extrachilli/static/css/main.e6c13ad2.css.map",
+    "453.chunk.js.map": "/extrachilli/static/js/453.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.js",
+    "static/css/main.e6c13ad2.css"
+  ]
+}

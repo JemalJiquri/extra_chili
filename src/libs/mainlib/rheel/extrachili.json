@@ -1,0 +1,480 @@
+{
+    "symbols": {
+        "FD": {
+            "code":"FD",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "FeatureDrop/FDSymbol_0%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "A": {
+            "code":"A",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Ace_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "K": {
+            "code":"K",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "King_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "Q": {
+            "code":"Q",
+            "bg": "SYM_Main_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Queen_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "J": {
+            "code":"J",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Jack_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "T": {
+            "code":"T",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Ten_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "N": {
+            "code":"N",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Nine_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "S1": {
+            "code":"S1",
+            "bg": "Scroll_BG_%h",
+            "bge": "Scroll_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 0.9333333,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Scroll_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 0.9,
+                    "scaleY": 0.9,
+                    "align": "center"
+                }
+            ]
+        },
+        "S2": {
+            "code":"S2",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "FireGem_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "S3": {
+            "code":"S3",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "IceGem_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "S4": {
+            "code":"S4",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonus": "SYM_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Emblem_%h",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ]
+        },
+        "SC": {
+            "code":"SC",
+            "bg": "Scatter_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Scatter_%h",
+            "fgpositionextra": [
+                {
+                    "x": -7,
+                    "y": -3,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "none"
+                }
+            ],
+            "fgposition": [
+                {
+                    "x": 13,
+                    "y": 30,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "none"
+                },
+                {
+                    "x": 25,
+                    "y": 25,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8,
+                    "align": "none"
+                },
+                {
+                    "x": 17,
+                    "y": 25,
+                    "scaleX": 0.7,
+                    "scaleY": 0.7,
+                    "align": "none"
+                },
+                {
+                    "x": 20,
+                    "y": 24,
+                    "scaleX": 0.5,
+                    "scaleY": 0.5,
+                    "align": "none"
+                },
+                {
+                    "x": 20,
+                    "y": 20,
+                    "scaleX": 0.4,
+                    "scaleY": 0.4,
+                    "align": "none"
+                },
+                {
+                    "x": 18,
+                    "y": 20,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3,
+                    "align": "none"
+                }
+            ],
+            "animations": {
+                "bg": [
+                    {
+                        "animation": "Scatter_BG_%h_Glow/Scatter_BG_%h_Glow_%frame%",
+                        "animation_extra": "Scatter_BG_4_Cart_Glow/Scatter_BG_4_Cart_Glow_%frame%",
+                        "length": 9,
+                        "loop": true,
+                        "alpha": 0,
+                        "oneTime": true,
+                        "scaleFactor": 1.2,
+                        "scale": 0,
+                        "autoplay": -1,
+                        "event": "entered",
+                        "position": "center",
+                        "fade": {
+                            "alpha": [
+                                0,
+                                0.8,
+                                0
+                            ],
+                            "time": [
+                                200,
+                                500
+                            ],
+                            "delay": [
+                                0,
+                                200
+                            ],
+                            "delay_extra": [
+                                500,
+                                200
+                            ]
+                        }
+                    }
+                ],
+                "highlight": [
+                    {
+                        "animation": "Scatter_BG_%h_Glow/Scatter_BG_%h_Glow_%frame%",
+                        "length": 9,
+                        "loop": true,
+                        "alpha": 0,
+                        "oneTime": false,
+                        "scaleFactor": 1.2,
+                        "scale": 0,
+                        "autoplay": -1,
+                        "event": "highlight",
+                        "position": "center",
+                        "fade": {
+                            "alpha": [
+                                0,
+                                1,
+                                0
+                            ],
+                            "time": [
+                                300,
+                                400
+                            ],
+                            "delay": [
+                                1000,
+                                100
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "WR": {
+            "code":"WR",
+            "bg": "SYM_Main_BG_%h",
+            "bge": "SYM_Main_Extra_BG_%h",
+            "bgbonuse": "SYM_Extra_BG_%h",
+            "shadow": "SYM_Main_BG_S_%h",
+            "bgposition": {
+                "x": 0,
+                "y": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "align": "center"
+            },
+            "fg": "Wild_3",
+            "fgposition": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 1,
+                    "scaleY": 1,
+                    "align": "center"
+                }
+            ],
+            "animations": {
+                "fg": [
+                    {
+                        "animation": "Sparkles_01/Sparkles_01_%frame%",
+                        "length": 13,
+                        "loop": true,
+                        "alpha": 1,
+                        "oneTime": false,
+                        "event": "default",
+                        "autoplay": 2,
+                        "scaleFactor": 0,
+                        "scale": 0.5,
+                        "position": "coordinates",
+                        "x": -20,
+                        "y": 100
+                    },
+                    {
+                        "animation": "Sparkles_01/Sparkles_01_%frame%",
+                        "length": 13,
+                        "loop": true,
+                        "alpha": 1,
+                        "oneTime": false,
+                        "event": "default",
+                        "autoplay": 5,
+                        "scaleFactor": 0,
+                        "scale": 0.5,
+                        "position": "coordinates",
+                        "x": 25,
+                        "y": 100
+                    },
+                    {
+                        "animation": "Sparkles_01/Sparkles_01_%frame%",
+                        "length": 13,
+                        "loop": true,
+                        "alpha": 1,
+                        "oneTime": false,
+                        "autoplay": 10,
+                        "event": "default",
+                        "scaleFactor": 0,
+                        "scale": 0.5,
+                        "position": "coordinates",
+                        "x": 70,
+                        "y": 100
+                    }
+                ]
+            }
+        }
+    }
+}

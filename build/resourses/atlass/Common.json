@@ -1,0 +1,2144 @@
+{
+    "setup": {
+        "SOURCE_HEIGHT": 415,
+        "SOURCE_WIDTH": 634,
+        "ALWAYS_ALIGN_TEXT_TOP": true
+    },
+    "textureEntries": {
+        "ButtonGreen_03": {
+            "BUT_ToggleFullScreen": [
+                {
+                    "x": 0,
+                    "y": -1,
+                    "width": 300,
+                    "height": 60,
+                    "depth": 1
+                }
+            ],
+            "BUT_Replay": [
+                {
+                    "x": 0,
+                    "y": -1,
+                    "width": 300,
+                    "height": 60,
+                    "depth": 1
+                }
+            ],
+            "BUT_ResponsibleGambling": [
+                {
+                    "x": 0,
+                    "y": -1,
+                    "width": 300,
+                    "height": 60,
+                    "depth": 1
+                }
+            ],
+            "RealityCheckRelax/BUT_ContinuePlaying": [
+                {
+                    "x": 0,
+                    "y": -1,
+                    "width": 300,
+                    "height": 60,
+                    "depth": 1
+                }
+            ],
+            "RealityCheckRelax/BUT_ExitGame": [
+                {
+                    "x": 0,
+                    "y": -1,
+                    "width": 300,
+                    "height": 60,
+                    "depth": 1
+                }
+            ],
+            "RealityCheckRelax/BUT_ShowHistory": [
+                {
+                    "x": 0,
+                    "y": -1,
+                    "width": 300,
+                    "height": 60,
+                    "depth": 1
+                }
+            ]
+        },
+        "BUT_ToggleFullScreen": {
+            "BUT_ToggleFullScreen": [
+                {
+                    "x": 169,
+                    "y": 174,
+                    "width": 300,
+                    "height": 58,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_Replay": {
+            "BUT_Replay": [
+                {
+                    "x": 169,
+                    "y": 174,
+                    "width": 300,
+                    "height": 58,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_ResponsibleGambling": {
+            "BUT_ResponsibleGambling": [
+                {
+                    "x": 169,
+                    "y": 174,
+                    "width": 300,
+                    "height": 58,
+                    "depth": 2
+                }
+            ]
+        },
+        "ButtonGreen_01": {
+            "MessageWindow/MessageWindow1/BUT_OK": [
+                {
+                    "x": -1,
+                    "y": -3,
+                    "width": 183,
+                    "height": 78,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds0/BUT_OK": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 69,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds1/BUT_OK": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds3/BUT_OK": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds4/BUT_OK": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds4/BUT_USELATER": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds4/BUT_USENOW": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds2/BUT_USELATER": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds2/BUT_USENOW": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsRelax/BUT_NOTHANKS": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsRelax/BUT_PLAYLATER": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsRelax/BUT_PLAYNOW": [
+                {
+                    "x": -1,
+                    "y": -2,
+                    "width": 164,
+                    "height": 70,
+                    "depth": 1
+                }
+            ]
+        },
+        "BUT_OK": {
+            "MessageWindow/MessageWindow1/BUT_OK": [
+                {
+                    "x": 188,
+                    "y": 285,
+                    "width": 181,
+                    "height": 73,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds0/BUT_OK": [
+                {
+                    "x": 203,
+                    "y": 292,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds1/BUT_OK": [
+                {
+                    "x": 203,
+                    "y": 292,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds3/BUT_OK": [
+                {
+                    "x": 203,
+                    "y": 292,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds4/BUT_OK": [
+                {
+                    "x": 203,
+                    "y": 273,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ]
+        },
+        "MessageWindow1": {
+            "MessageWindow/MessageWindow1": [
+                {
+                    "x": 36,
+                    "y": 20,
+                    "width": 564,
+                    "height": 363,
+                    "depth": 3
+                }
+            ]
+        },
+        "MessageWindow_BG_01": {
+            "MessageWindow": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "width": 606,
+                    "height": 406,
+                    "depth": 1
+                }
+            ],
+            "FreeRoundsWindow": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "width": 606,
+                    "height": 406,
+                    "depth": 5
+                }
+            ],
+            "RealityCheckRelax": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "width": 606,
+                    "height": 406,
+                    "depth": 7
+                }
+            ],
+            "FreeRoundsRelax": [
+                {
+                    "x": 12,
+                    "y": 3,
+                    "width": 606,
+                    "height": 406,
+                    "depth": 8
+                }
+            ]
+        },
+        "MessageWindow": {
+            "MessageWindow": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 634,
+                    "height": 415,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_Next_01": {
+            "FreeGamesMGS/FreeGames1/SelectOffer": [
+                {
+                    "x": 80,
+                    "y": 80,
+                    "width": 77,
+                    "height": 40,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsRelax/SpinsOffer": [
+                {
+                    "x": 394,
+                    "y": 54,
+                    "width": 77,
+                    "height": 40,
+                    "depth": 0
+                }
+            ]
+        },
+        "BUT_Prev_01": {
+            "FreeGamesMGS/FreeGames1/SelectOffer": [
+                {
+                    "x": 3,
+                    "y": 80,
+                    "width": 77,
+                    "height": 40,
+                    "depth": 3
+                }
+            ],
+            "FreeRoundsRelax/SpinsOffer": [
+                {
+                    "x": -88,
+                    "y": 49,
+                    "width": 77,
+                    "height": 40,
+                    "depth": 1
+                }
+            ]
+        },
+        "Offers_01_BG": {
+            "FreeGamesMGS/FreeGames1/SelectOffer": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 160,
+                    "height": 123,
+                    "depth": 4
+                }
+            ]
+        },
+        "SelectOffer": {
+            "FreeGamesMGS/FreeGames1/SelectOffer": [
+                {
+                    "x": 560,
+                    "y": -41,
+                    "width": 160,
+                    "height": 123,
+                    "depth": 5
+                }
+            ]
+        },
+        "ButtonGreen_02": {
+            "FreeGamesMGS/FreeGames1/BUT_CONTINUE": [
+                {
+                    "x": -1,
+                    "y": 0,
+                    "width": 280,
+                    "height": 79,
+                    "depth": 1
+                }
+            ],
+            "FreeGamesMGS/FreeGames1/BUT_RESUMEPLAY": [
+                {
+                    "x": -1,
+                    "y": 0,
+                    "width": 280,
+                    "height": 79,
+                    "depth": 1
+                }
+            ],
+            "FreeGamesMGS/FreeGames1/BUT_BACKTOGAME": [
+                {
+                    "x": -1,
+                    "y": 0,
+                    "width": 280,
+                    "height": 79,
+                    "depth": 1
+                }
+            ],
+            "FreeGamesMGS/FreeGames1/BUT_NEXTOFFER": [
+                {
+                    "x": -2,
+                    "y": 0,
+                    "width": 280,
+                    "height": 79,
+                    "depth": 1
+                }
+            ],
+            "FreeGamesMGS/FreeGames1/BUT_KEEPIT": [
+                {
+                    "x": -1,
+                    "y": 0,
+                    "width": 280,
+                    "height": 79,
+                    "depth": 1
+                }
+            ],
+            "FreeGamesMGS/FreeGames1/BUT_DISCARDOFFER": [
+                {
+                    "x": -2,
+                    "y": 0,
+                    "width": 280,
+                    "height": 79,
+                    "depth": 1
+                }
+            ],
+            "FreeGamesMGS/FreeGames1/BUT_PLAYNOW": [
+                {
+                    "x": -1,
+                    "y": 0,
+                    "width": 280,
+                    "height": 79,
+                    "depth": 1
+                }
+            ],
+            "FreeGamesMGS/FreeGames1/BUT_PLAYLATER": [
+                {
+                    "x": -2,
+                    "y": 0,
+                    "width": 280,
+                    "height": 79,
+                    "depth": 1
+                }
+            ]
+        },
+        "BUT_CONTINUE": {
+            "FreeGamesMGS/FreeGames1/BUT_CONTINUE": [
+                {
+                    "x": 148,
+                    "y": 368,
+                    "width": 278,
+                    "height": 78,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_RESUMEPLAY": {
+            "FreeGamesMGS/FreeGames1/BUT_RESUMEPLAY": [
+                {
+                    "x": 148,
+                    "y": 368,
+                    "width": 278,
+                    "height": 78,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_BACKTOGAME": {
+            "FreeGamesMGS/FreeGames1/BUT_BACKTOGAME": [
+                {
+                    "x": -7,
+                    "y": 368,
+                    "width": 278,
+                    "height": 78,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_NEXTOFFER": {
+            "FreeGamesMGS/FreeGames1/BUT_NEXTOFFER": [
+                {
+                    "x": 306,
+                    "y": 368,
+                    "width": 278,
+                    "height": 78,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_KEEPIT": {
+            "FreeGamesMGS/FreeGames1/BUT_KEEPIT": [
+                {
+                    "x": -7,
+                    "y": 368,
+                    "width": 278,
+                    "height": 78,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_DISCARDOFFER": {
+            "FreeGamesMGS/FreeGames1/BUT_DISCARDOFFER": [
+                {
+                    "x": 306,
+                    "y": 368,
+                    "width": 278,
+                    "height": 78,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_PLAYNOW": {
+            "FreeGamesMGS/FreeGames1/BUT_PLAYNOW": [
+                {
+                    "x": -7,
+                    "y": 368,
+                    "width": 278,
+                    "height": 78,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsRelax/BUT_PLAYNOW": [
+                {
+                    "x": 72,
+                    "y": 317,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_PLAYLATER": {
+            "FreeGamesMGS/FreeGames1/BUT_PLAYLATER": [
+                {
+                    "x": 306,
+                    "y": 368,
+                    "width": 278,
+                    "height": 78,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsRelax/BUT_PLAYLATER": [
+                {
+                    "x": 236,
+                    "y": 317,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ]
+        },
+        "Discard_01": {
+            "FreeGamesMGS/FreeGames1/BUT_DISCARD": [
+                {
+                    "x": -5,
+                    "y": -5,
+                    "width": 90,
+                    "height": 90,
+                    "depth": 0
+                }
+            ]
+        },
+        "BUT_DISCARD": {
+            "FreeGamesMGS/FreeGames1/BUT_DISCARD": [
+                {
+                    "x": 655,
+                    "y": 366,
+                    "width": 80,
+                    "height": 80,
+                    "depth": 1
+                }
+            ]
+        },
+        "Info_01": {
+            "FreeGamesMGS/FreeGames1/BUT_INFO": [
+                {
+                    "x": 8,
+                    "y": 8,
+                    "width": 63,
+                    "height": 63,
+                    "depth": 0
+                }
+            ]
+        },
+        "BUT_INFO": {
+            "FreeGamesMGS/FreeGames1/BUT_INFO": [
+                {
+                    "x": -152,
+                    "y": 366,
+                    "width": 80,
+                    "height": 80,
+                    "depth": 1
+                }
+            ]
+        },
+        "LogoMarker": {
+            "FreeGamesMGS/FreeGames1": [
+                {
+                    "x": 143,
+                    "y": -82,
+                    "width": 291,
+                    "height": 200,
+                    "depth": 15
+                }
+            ]
+        },
+        "FreeGames1": {
+            "FreeGamesMGS/FreeGames1": [
+                {
+                    "x": 224,
+                    "y": 98,
+                    "width": 573,
+                    "height": 375,
+                    "depth": 16
+                }
+            ]
+        },
+        "FreeGamesMGS": {
+            "FreeGamesMGS": [
+                {
+                    "x": -193,
+                    "y": -97,
+                    "width": 1024,
+                    "height": 600,
+                    "depth": 1
+                }
+            ]
+        },
+        "FSW_Losange_02": {
+            "FreeRoundsWindow/FreeRounds0": [
+                {
+                    "x": 17,
+                    "y": 96,
+                    "width": 541,
+                    "height": 49,
+                    "depth": 4
+                }
+            ]
+        },
+        "FreeRounds0": {
+            "FreeRoundsWindow/FreeRounds0": [
+                {
+                    "x": 31,
+                    "y": 1,
+                    "width": 573,
+                    "height": 375,
+                    "depth": 5
+                }
+            ]
+        },
+        "FreeRounds1": {
+            "FreeRoundsWindow/FreeRounds1": [
+                {
+                    "x": 31,
+                    "y": 1,
+                    "width": 573,
+                    "height": 375,
+                    "depth": 4
+                }
+            ]
+        },
+        "FreeRounds3": {
+            "FreeRoundsWindow/FreeRounds3": [
+                {
+                    "x": 31,
+                    "y": 1,
+                    "width": 573,
+                    "height": 375,
+                    "depth": 3
+                }
+            ]
+        },
+        "BUT_USELATER": {
+            "FreeRoundsWindow/FreeRounds4/BUT_USELATER": [
+                {
+                    "x": 289,
+                    "y": 273,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds2/BUT_USELATER": [
+                {
+                    "x": 289,
+                    "y": 292,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_USENOW": {
+            "FreeRoundsWindow/FreeRounds4/BUT_USENOW": [
+                {
+                    "x": 116,
+                    "y": 273,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds2/BUT_USENOW": [
+                {
+                    "x": 116,
+                    "y": 292,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ]
+        },
+        "FSW_Losange_01_Pressed": {
+            "FreeRoundsWindow/FreeRounds4/Prizes/PrizeLosange": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 128,
+                    "height": 128,
+                    "depth": 4
+                }
+            ],
+            "FreeRoundsRelax/SpinsOffer/SpinsOfferLosange": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 128,
+                    "height": 128,
+                    "depth": 4
+                }
+            ]
+        },
+        "FSW_Losange_01": {
+            "FreeRoundsWindow/FreeRounds4/Prizes/PrizeLosange": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 128,
+                    "height": 128,
+                    "depth": 5
+                }
+            ],
+            "FreeRoundsRelax/SpinsOffer/SpinsOfferLosange": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 128,
+                    "height": 128,
+                    "depth": 5
+                }
+            ]
+        },
+        "PrizeLosange": {
+            "FreeRoundsWindow/FreeRounds4/Prizes/PrizeLosange": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 128,
+                    "height": 128,
+                    "depth": 6
+                }
+            ]
+        },
+        "Prizes": {
+            "FreeRoundsWindow/FreeRounds4/Prizes": [
+                {
+                    "x": 16,
+                    "y": 136,
+                    "width": 542,
+                    "height": 128,
+                    "depth": 1
+                }
+            ]
+        },
+        "FreeRounds4": {
+            "FreeRoundsWindow/FreeRounds4": [
+                {
+                    "x": 31,
+                    "y": 20,
+                    "width": 573,
+                    "height": 375,
+                    "depth": 7
+                }
+            ]
+        },
+        "FreeRounds2": {
+            "FreeRoundsWindow/FreeRounds2": [
+                {
+                    "x": 31,
+                    "y": 1,
+                    "width": 573,
+                    "height": 375,
+                    "depth": 6
+                }
+            ]
+        },
+        "FreeRoundsWindow": {
+            "FreeRoundsWindow": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 634,
+                    "height": 415,
+                    "depth": 6
+                }
+            ]
+        },
+        "BUT_ContinuePlaying": {
+            "RealityCheckRelax/BUT_ContinuePlaying": [
+                {
+                    "x": 169,
+                    "y": 191,
+                    "width": 300,
+                    "height": 58,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_ExitGame": {
+            "RealityCheckRelax/BUT_ExitGame": [
+                {
+                    "x": 169,
+                    "y": 255,
+                    "width": 300,
+                    "height": 58,
+                    "depth": 2
+                }
+            ]
+        },
+        "BUT_ShowHistory": {
+            "RealityCheckRelax/BUT_ShowHistory": [
+                {
+                    "x": 169,
+                    "y": 319,
+                    "width": 300,
+                    "height": 58,
+                    "depth": 2
+                }
+            ]
+        },
+        "RealityCheckRelax": {
+            "RealityCheckRelax": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 634,
+                    "height": 415,
+                    "depth": 8
+                }
+            ]
+        },
+        "BUT_NOTHANKS": {
+            "FreeRoundsRelax/BUT_NOTHANKS": [
+                {
+                    "x": 400,
+                    "y": 317,
+                    "width": 162,
+                    "height": 65,
+                    "depth": 2
+                }
+            ]
+        },
+        "SpinsOfferLosange": {
+            "FreeRoundsRelax/SpinsOffer/SpinsOfferLosange": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 128,
+                    "height": 128,
+                    "depth": 6
+                }
+            ]
+        },
+        "SpinsOffer": {
+            "FreeRoundsRelax/SpinsOffer": [
+                {
+                    "x": 126,
+                    "y": 134,
+                    "width": 384,
+                    "height": 128,
+                    "depth": 3
+                }
+            ]
+        },
+        "FreeRoundsRelax": {
+            "FreeRoundsRelax": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 634,
+                    "height": 415,
+                    "depth": 9
+                }
+            ]
+        },
+        "Main": {
+            "": [
+                {
+                    "x": 705,
+                    "y": 821,
+                    "width": 634,
+                    "height": 415,
+                    "depth": 8,
+                    "alpha": 0.671
+                }
+            ]
+        }
+    },
+    "textEntries": {
+        "TOGGLEFULLSCREEN": {
+            "BUT_ToggleFullScreen": [
+                {
+                    "x": 11,
+                    "y": 18,
+                    "width": 277,
+                    "height": 23,
+                    "depth": 0,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 26px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true
+                }
+            ]
+        },
+        "REPLAY": {
+            "BUT_Replay": [
+                {
+                    "x": 11,
+                    "y": 18,
+                    "width": 277,
+                    "height": 23,
+                    "depth": 0,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 26px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true
+                }
+            ]
+        },
+        "RESPONSIBLEGAMBLING": {
+            "BUT_ResponsibleGambling": [
+                {
+                    "x": 11,
+                    "y": 19,
+                    "width": 277,
+                    "height": 23,
+                    "depth": 0,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true
+                }
+            ]
+        },
+        "OK": {
+            "MessageWindow/MessageWindow1/BUT_OK": [
+                {
+                    "x": 22,
+                    "y": 24,
+                    "width": 136,
+                    "height": 25,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 32px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds0/BUT_OK": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds1/BUT_OK": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds3/BUT_OK": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds4/BUT_OK": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "MESSAGE_WINDOW1_TITLE": {
+            "MessageWindow/MessageWindow1": [
+                {
+                    "x": 33,
+                    "y": 21,
+                    "width": 495,
+                    "height": 33,
+                    "depth": 1,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 32px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "dropShadow": true,
+                    "dropShadowDistance": 2,
+                    "dropShadowAngle": 1.6,
+                    "dropShadowColor": "0x000000",
+                    "dropShadowAlpha": 1,
+                    "dropShadowBlur": 0,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000",
+                    "padding": 2
+                }
+            ]
+        },
+        "MESSAGE_WINDOW1_INFO_0": {
+            "MessageWindow/MessageWindow1": [
+                {
+                    "x": 8,
+                    "y": 79,
+                    "width": 546,
+                    "height": 188,
+                    "depth": 2,
+                    "fill": "0xD4D4D4",
+                    "font": "normal_bold 28px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 30.0,
+                    "dropShadow": true,
+                    "dropShadowDistance": 2,
+                    "dropShadowAngle": 1.6,
+                    "dropShadowColor": "0x000000",
+                    "dropShadowAlpha": 1,
+                    "dropShadowBlur": 0,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000",
+                    "padding": 2
+                }
+            ]
+        },
+        "OFFER_TITLE": {
+            "FreeGamesMGS/FreeGames1/SelectOffer": [
+                {
+                    "x": 12,
+                    "y": 10,
+                    "width": 134,
+                    "height": 17,
+                    "depth": 0,
+                    "fill": "0xEBEBEB",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "strokeThickness": 1,
+                    "stroke": "0x848484"
+                }
+            ]
+        },
+        "OFFER_INFO_0": {
+            "FreeGamesMGS/FreeGames1/SelectOffer": [
+                {
+                    "x": 8,
+                    "y": 35,
+                    "width": 142,
+                    "height": 35,
+                    "depth": 1,
+                    "fill": "0xEBEBEB",
+                    "font": "normal_bold 42px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "strokeThickness": 1,
+                    "stroke": "0x848484"
+                }
+            ]
+        },
+        "CONTINUE": {
+            "FreeGamesMGS/FreeGames1/BUT_CONTINUE": [
+                {
+                    "x": 15,
+                    "y": 27,
+                    "width": 248,
+                    "height": 26,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "RESUMEPLAY": {
+            "FreeGamesMGS/FreeGames1/BUT_RESUMEPLAY": [
+                {
+                    "x": 15,
+                    "y": 27,
+                    "width": 248,
+                    "height": 26,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "BACKTOGAME": {
+            "FreeGamesMGS/FreeGames1/BUT_BACKTOGAME": [
+                {
+                    "x": 15,
+                    "y": 27,
+                    "width": 248,
+                    "height": 26,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "NEXTOFFER": {
+            "FreeGamesMGS/FreeGames1/BUT_NEXTOFFER": [
+                {
+                    "x": 14,
+                    "y": 27,
+                    "width": 248,
+                    "height": 26,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "KEEPIT": {
+            "FreeGamesMGS/FreeGames1/BUT_KEEPIT": [
+                {
+                    "x": 15,
+                    "y": 28,
+                    "width": 245.857074557344,
+                    "height": 26,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 29px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "DISCARDOFFER": {
+            "FreeGamesMGS/FreeGames1/BUT_DISCARDOFFER": [
+                {
+                    "x": 13,
+                    "y": 28,
+                    "width": 245.857074557344,
+                    "height": 26,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 29px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "PLAYNOW": {
+            "FreeGamesMGS/FreeGames1/BUT_PLAYNOW": [
+                {
+                    "x": 15,
+                    "y": 27,
+                    "width": 248,
+                    "height": 26,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ],
+            "FreeRoundsRelax/BUT_PLAYNOW": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "PLAYLATER": {
+            "FreeGamesMGS/FreeGames1/BUT_PLAYLATER": [
+                {
+                    "x": 14,
+                    "y": 27,
+                    "width": 248,
+                    "height": 26,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ],
+            "FreeRoundsRelax/BUT_PLAYLATER": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "FREE_GAMES_TITLE": {
+            "FreeGamesMGS/FreeGames1": [
+                {
+                    "x": 20,
+                    "y": 133,
+                    "width": 535,
+                    "height": 31,
+                    "depth": 11,
+                    "fill": "0xFFCC74",
+                    "font": "normal_bold 34px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x321500"
+                }
+            ]
+        },
+        "FREE_GAMES_INFO_0": {
+            "FreeGamesMGS/FreeGames1": [
+                {
+                    "x": -78,
+                    "y": 174,
+                    "width": 732,
+                    "height": 86,
+                    "depth": 12,
+                    "fill": "0xEBEBEB",
+                    "font": "normal_bold 40px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "strokeThickness": 1,
+                    "stroke": "0x848484"
+                }
+            ]
+        },
+        "FREE_GAMES_INFO_1": {
+            "FreeGamesMGS/FreeGames1": [
+                {
+                    "x": 80,
+                    "y": 269,
+                    "width": 413,
+                    "height": 116,
+                    "depth": 13,
+                    "fill": "0xACACAC",
+                    "font": "20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 30.0
+                }
+            ]
+        },
+        "FREE_GAMES_INFO_2": {
+            "FreeGamesMGS/FreeGames1": [
+                {
+                    "x": 94,
+                    "y": 462,
+                    "width": 384,
+                    "height": 24,
+                    "depth": 14,
+                    "fill": "0x606060",
+                    "font": "26px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 30.0
+                }
+            ]
+        },
+        "FREE_ROUND_TITLE": {
+            "FreeRoundsWindow/FreeRounds0": [
+                {
+                    "x": 45,
+                    "y": 30,
+                    "width": 482,
+                    "height": 51,
+                    "depth": 1,
+                    "fill": "0xFFD26A",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "dropShadow": true,
+                    "dropShadowDistance": 4,
+                    "dropShadowAngle": 1.6,
+                    "dropShadowColor": "0x000000",
+                    "dropShadowAlpha": 1,
+                    "dropShadowBlur": 0,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000",
+                    "padding": 4
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds1": [
+                {
+                    "x": 45,
+                    "y": 30,
+                    "width": 482,
+                    "height": 51,
+                    "depth": 1,
+                    "fill": "0xFFD26A",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "dropShadow": true,
+                    "dropShadowDistance": 4,
+                    "dropShadowAngle": 1.6,
+                    "dropShadowColor": "0x000000",
+                    "dropShadowAlpha": 1,
+                    "dropShadowBlur": 0,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000",
+                    "padding": 4
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds3": [
+                {
+                    "x": 45,
+                    "y": 30,
+                    "width": 482,
+                    "height": 51,
+                    "depth": 1,
+                    "fill": "0xFFD26A",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "dropShadow": true,
+                    "dropShadowDistance": 4,
+                    "dropShadowAngle": 1.6,
+                    "dropShadowColor": "0x000000",
+                    "dropShadowAlpha": 1,
+                    "dropShadowBlur": 0,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000",
+                    "padding": 4
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds4": [
+                {
+                    "x": 45,
+                    "y": 11,
+                    "width": 482,
+                    "height": 51,
+                    "depth": 4,
+                    "fill": "0xFFD26A",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "dropShadow": true,
+                    "dropShadowDistance": 4,
+                    "dropShadowAngle": 1.6,
+                    "dropShadowColor": "0x000000",
+                    "dropShadowAlpha": 1,
+                    "dropShadowBlur": 0,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000",
+                    "padding": 4
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds2": [
+                {
+                    "x": 45,
+                    "y": 30,
+                    "width": 482,
+                    "height": 51,
+                    "depth": 2,
+                    "fill": "0xFFD26A",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "dropShadow": true,
+                    "dropShadowDistance": 4,
+                    "dropShadowAngle": 1.6,
+                    "dropShadowColor": "0x000000",
+                    "dropShadowAlpha": 1,
+                    "dropShadowBlur": 0,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000",
+                    "padding": 4
+                }
+            ]
+        },
+        "FREE_ROUNDS0_INFO_0": {
+            "FreeRoundsWindow/FreeRounds0": [
+                {
+                    "x": 27,
+                    "y": 102,
+                    "width": 519,
+                    "height": 18,
+                    "depth": 2,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 14px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUNDS0_INFO_1": {
+            "FreeRoundsWindow/FreeRounds0": [
+                {
+                    "x": 27,
+                    "y": 120,
+                    "width": 519,
+                    "height": 18,
+                    "depth": 3,
+                    "fill": "0x00FFF6",
+                    "font": "normal_bold 14px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUNDS1_INFO_0": {
+            "FreeRoundsWindow/FreeRounds1": [
+                {
+                    "x": 13,
+                    "y": 102,
+                    "width": 546,
+                    "height": 29,
+                    "depth": 2,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUNDS1_INFO_1": {
+            "FreeRoundsWindow/FreeRounds1": [
+                {
+                    "x": 13,
+                    "y": 163,
+                    "width": 546,
+                    "height": 110,
+                    "depth": 3,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUNDS3_INFO_0": {
+            "FreeRoundsWindow/FreeRounds3": [
+                {
+                    "x": 13,
+                    "y": 102,
+                    "width": 546,
+                    "height": 154,
+                    "depth": 2,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 30.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "USELATER": {
+            "FreeRoundsWindow/FreeRounds4/BUT_USELATER": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds2/BUT_USELATER": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "USENOW": {
+            "FreeRoundsWindow/FreeRounds4/BUT_USENOW": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds2/BUT_USENOW": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "PRIZE_NUMBER": {
+            "FreeRoundsWindow/FreeRounds4/Prizes/PrizeLosange": [
+                {
+                    "x": 20,
+                    "y": 10,
+                    "width": 87,
+                    "height": 32,
+                    "depth": 0,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 40px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000"
+                }
+            ]
+        },
+        "PRIZE_SPINS": {
+            "FreeRoundsWindow/FreeRounds4/Prizes/PrizeLosange": [
+                {
+                    "x": 12,
+                    "y": 44,
+                    "width": 103,
+                    "height": 21,
+                    "depth": 1,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000"
+                }
+            ]
+        },
+        "PRIZE_X": {
+            "FreeRoundsWindow/FreeRounds4/Prizes/PrizeLosange": [
+                {
+                    "x": 47,
+                    "y": 76,
+                    "width": 32,
+                    "height": 16,
+                    "depth": 2,
+                    "fill": "0x010101",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0xFFFFFF"
+                }
+            ],
+            "FreeRoundsRelax/SpinsOffer/SpinsOfferLosange": [
+                {
+                    "x": 7,
+                    "y": 77,
+                    "width": 113,
+                    "height": 17,
+                    "depth": 3,
+                    "fill": "0x010101",
+                    "font": "normal_900 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0xFFFFFF"
+                }
+            ]
+        },
+        "PRIZE_VALUE": {
+            "FreeRoundsWindow/FreeRounds4/Prizes/PrizeLosange": [
+                {
+                    "x": 10,
+                    "y": 98,
+                    "width": 108,
+                    "height": 22,
+                    "depth": 3,
+                    "fill": "0x010101",
+                    "font": "normal_bold 26px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0xFFFFFF"
+                }
+            ]
+        },
+        "FREE_ROUNDS4_INFO_0": {
+            "FreeRoundsWindow/FreeRounds4": [
+                {
+                    "x": 13,
+                    "y": 57,
+                    "width": 546,
+                    "height": 51,
+                    "depth": 5,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "EXPIRY": {
+            "FreeRoundsWindow/FreeRounds4": [
+                {
+                    "x": 64,
+                    "y": 348,
+                    "width": 447,
+                    "height": 19,
+                    "depth": 6,
+                    "fill": "0xFFF8E8",
+                    "font": "normal_bold 16px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ],
+            "FreeRoundsWindow/FreeRounds2": [
+                {
+                    "x": 66,
+                    "y": 367,
+                    "width": 442,
+                    "height": 23,
+                    "depth": 5,
+                    "fill": "0xFFF8E8",
+                    "font": "normal_bold 16px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUNDS2_INFO_0": {
+            "FreeRoundsWindow/FreeRounds2": [
+                {
+                    "x": 13,
+                    "y": 102,
+                    "width": 546,
+                    "height": 29,
+                    "depth": 3,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 30px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUNDS2_INFO_1": {
+            "FreeRoundsWindow/FreeRounds2": [
+                {
+                    "x": 13,
+                    "y": 158,
+                    "width": 546,
+                    "height": 95,
+                    "depth": 4,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 30.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "REALITY_CHECK_TITLE": {
+            "RealityCheckRelax": [
+                {
+                    "x": 52,
+                    "y": 44,
+                    "width": 530,
+                    "height": 43,
+                    "depth": 0,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": true,
+                    "lineHeight": 20.6
+                }
+            ]
+        },
+        "REALITY_CHECK_INFO_0": {
+            "RealityCheckRelax": [
+                {
+                    "x": 44,
+                    "y": 97,
+                    "width": 546,
+                    "height": 20,
+                    "depth": 1,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "REALITY_CHECK_INFO_1": {
+            "RealityCheckRelax": [
+                {
+                    "x": 44,
+                    "y": 126,
+                    "width": 546,
+                    "height": 19,
+                    "depth": 2,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "REALITY_CHECK_INFO_2": {
+            "RealityCheckRelax": [
+                {
+                    "x": 44,
+                    "y": 156,
+                    "width": 546,
+                    "height": 19,
+                    "depth": 3,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "CONTINUE_PLAYING": {
+            "RealityCheckRelax/BUT_ContinuePlaying": [
+                {
+                    "x": 11,
+                    "y": 19,
+                    "width": 277,
+                    "height": 23,
+                    "depth": 0,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false
+                }
+            ]
+        },
+        "EXIT_GAME": {
+            "RealityCheckRelax/BUT_ExitGame": [
+                {
+                    "x": 11,
+                    "y": 17,
+                    "width": 277,
+                    "height": 23,
+                    "depth": 0,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false
+                }
+            ]
+        },
+        "SHOW_HISTORY": {
+            "RealityCheckRelax/BUT_ShowHistory": [
+                {
+                    "x": 11,
+                    "y": 19,
+                    "width": 277,
+                    "height": 23,
+                    "depth": 0,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false
+                }
+            ]
+        },
+        "FREE_ROUND_RELAX_TITLE": {
+            "FreeRoundsRelax": [
+                {
+                    "x": 76,
+                    "y": 32,
+                    "width": 482,
+                    "height": 29,
+                    "depth": 0,
+                    "fill": "0xFFD26A",
+                    "font": "normal_bold 26px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUND_RELAX_INFO_0": {
+            "FreeRoundsRelax": [
+                {
+                    "x": 44,
+                    "y": 69,
+                    "width": 546,
+                    "height": 29,
+                    "depth": 1,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUND_RELAX_INFO_1": {
+            "FreeRoundsRelax": [
+                {
+                    "x": 44,
+                    "y": 99,
+                    "width": 546,
+                    "height": 29,
+                    "depth": 2,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "FREE_ROUND_RELAX_INFO_2": {
+            "FreeRoundsRelax": [
+                {
+                    "x": 148,
+                    "y": 278,
+                    "width": 339,
+                    "height": 29,
+                    "depth": 3,
+                    "fill": "0xFFEFCB",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 18.0,
+                    "strokeThickness": 1,
+                    "stroke": "0x00514C"
+                }
+            ]
+        },
+        "NOTHANKS": {
+            "FreeRoundsRelax/BUT_NOTHANKS": [
+                {
+                    "x": 12,
+                    "y": 22,
+                    "width": 136,
+                    "height": 21,
+                    "depth": 0,
+                    "fill": "0xFFFFFE",
+                    "font": "normal_bold 22px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x999999"
+                }
+            ]
+        },
+        "SPINS_NUMBER": {
+            "FreeRoundsRelax/SpinsOffer/SpinsOfferLosange": [
+                {
+                    "x": 20,
+                    "y": 10,
+                    "width": 87,
+                    "height": 32,
+                    "depth": 0,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_900 40px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000"
+                }
+            ]
+        },
+        "SPINS": {
+            "FreeRoundsRelax/SpinsOffer/SpinsOfferLosange": [
+                {
+                    "x": 12,
+                    "y": 46,
+                    "width": 103,
+                    "height": 19,
+                    "depth": 1,
+                    "fill": "0xFFFFFF",
+                    "font": "normal_bold 20px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0x000000"
+                }
+            ]
+        },
+        "SPINS_VALUE": {
+            "FreeRoundsRelax/SpinsOffer/SpinsOfferLosange": [
+                {
+                    "x": 7,
+                    "y": 100,
+                    "width": 113,
+                    "height": 22,
+                    "depth": 2,
+                    "fill": "0x010101",
+                    "font": "normal_bold 26px Arial",
+                    "alignHorizontal": "center",
+                    "alignVertical": "middle",
+                    "wordWrap": false,
+                    "lineHeight": 20.6,
+                    "strokeThickness": 1,
+                    "stroke": "0xFFFFFF"
+                }
+            ]
+        }
+    }
+}
